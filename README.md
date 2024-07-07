@@ -5,14 +5,15 @@
 
 <br>
 
-<h1 align="center">Hi, I'm Caner Yesiltas <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"></h1>
+<h1 align="center" style="margin-top: -20px;">Hi, I'm Caner Yesiltas <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"></h1>
 <h3 align="center">Full stack developer with a love for frontend challenges.</h3>
-<h3 align="center">Let's build something great together!</h3>
+<h3 align="center" style="color: #87CEFA;">Let's build something great together!</h3>
 
 <p align="center">
-   <img src="https://4kwallpapers.com/images/walls/thumbs_3t/13653.png" width="250px" height="200px" alt="MasterHead">
-   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250px" height="200px" alt="coding gif">
+   <img src="/mnt/data/code.gif" width="250px" height="200px" alt="coding gif">
 </p>
+
+<img align="right" top="500" height="150" width="250" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 Passionate and dedicated aspiring front-end developer with a strong foundation in full-stack development from an intensive bootcamp. 🎓 Graduated with a degree in English of Economics, I bring a unique blend of analytical skills and creative problem-solving abilities to the tech industry. 💡 My experience in team projects has honed my collaboration skills, and my constant curiosity drives me to continuously learn and adapt in this ever-evolving field. 🚀
 
@@ -34,7 +35,7 @@ Passionate and dedicated aspiring front-end developer with a strong foundation i
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="150px" alt="tools">
 </p>
 
-<p align="center">
+<p align="center" style="margin-top: -20px;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
@@ -55,7 +56,10 @@ Passionate and dedicated aspiring front-end developer with a strong foundation i
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Custom+Hooks-FFD700?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Context+API-808080?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Styled+Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
 </p>
 
 ## Looking Forward:
@@ -71,5 +75,24 @@ Eager to contribute to innovative front-end projects, leverage my skills in a dy
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caner-yesiltas&layout=compact&theme=radical" alt="caner-yesiltas's most used languages" width="300"/>
   </a>
 </p>
+
+<div align="center">
+  <h3><b>Let's get in touch! </b></h3>
+</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/caner-yesiltas" target="_blank">
+    <img align="center" alt="Caner Yesiltas | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/caner.yesiltas/" target="_blank">
+    <img align="center" alt="Caner Yesiltas | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="mailto:yesiltas.caner@example.com" >
+    <img align="center" alt="Caner Yesiltas | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a> &nbsp;&nbsp;
+</p>
+<p align="center">
+  <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
+</p>
+
 
 
