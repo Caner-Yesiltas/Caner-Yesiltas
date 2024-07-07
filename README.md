@@ -15,8 +15,9 @@
 
 <img align="right" top="500" height="150" width="250" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
+<p>
 Passionate and dedicated aspiring front-end developer with a strong foundation in full-stack development from an intensive bootcamp. 🎓 Graduated with a degree in English of Economics, I bring a unique blend of analytical skills and creative problem-solving abilities to the tech industry. 💡 My experience in team projects has honed my collaboration skills, and my constant curiosity drives me to continuously learn and adapt in this ever-evolving field. 🚀
-
+</p>
 ## What I Offer:
 
 * 🧑‍🤝‍🧑 **Team Collaboration**: Proven ability to work effectively in teams, ensuring smooth communication and collaborative problem-solving.
@@ -89,6 +90,12 @@ Eager to contribute to innovative front-end projects, leverage my skills in a dy
   <a href="mailto:yesiltas.caner@example.com" >
     <img align="center" alt="Caner Yesiltas | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
+  <a href="https://www.facebook.com/caner.yesiltas" target="_blank">
+    <img align="center" alt="Caner Yesiltas | Facebook" width="24px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />
+  </a>
+</p>
+
+  
 </p>
 <p align="center">
   <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
