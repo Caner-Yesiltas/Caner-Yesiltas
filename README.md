@@ -3,12 +3,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2397FF79&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Software+Developer;Passionate+About+Learning+🧙‍♂️;Always+Exploring+New+Technologies"></a>
 </p>
 
-<br>
-
 <h1 align="center" style="margin-top: -20px;">Hi, I'm Caner Yesiltas <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"></h1>
-<h3 align="center">Full stack developer with a love for frontend challenges.</h3>
-<h3 align="center" style="color: #87CEFA;">Let's build something great together!</h3>
-
+<h3 align="center" style="margin-top: -10px;">Full stack developer with a love for frontend challenges.</h3>
+<h3 align="center" style="color: #87CEFA; margin-top: -10px;">Let's build something great together!</h3>
 <p align="center">
    <img src="/mnt/data/code.gif" width="250px" height="200px" alt="coding gif">
 </p>
@@ -31,6 +28,15 @@ Passionate and dedicated aspiring front-end developer with a strong foundation i
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23FFA500&size=25&center=true&vCenter=true&width=600&height=100&lines=Core+Technologies"></a>
 </p>
+
+<!-- Core Technologies bölümünden sonra -->
+<p align="center" style="margin-top: 20px;">
+  <a href="https://github.com/caner-yesiltas">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caner-yesiltas&layout=compact&theme=radical" alt="caner-yesiltas's most used languages" width="300"/>
+  </a>
+</p>
+
+<!-- Ardından "Looking Forward" bölümü gelecek -->
 
 <p align="center">
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="150px" alt="tools">
@@ -71,11 +77,6 @@ Eager to contribute to innovative front-end projects, leverage my skills in a dy
   <img src="https://media.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif" width="100%" height="4">
 </p> 
 
-<p align="center">
-  <a href="https://github.com/caner-yesiltas">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caner-yesiltas&layout=compact&theme=radical" alt="caner-yesiltas's most used languages" width="300"/>
-  </a>
-</p>
 
 <div align="center">
   <h3><b>Let's get in touch! </b></h3>
