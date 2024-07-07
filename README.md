@@ -1,7 +1,10 @@
 <h1 align="center">
   Welcome to My GitHub Profile! 🌐
 </h1>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2397FF79&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Software+Developer;Passionate+About+Learning+🧙‍♂️;Always+Exploring+New+Technologies"></a>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2397FF79&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Software+Developer;Passionate+About+Learning+🧙‍♂️;Always+Exploring+New+Technologies">
+  </a>
 </p>
 
 <h1 align="center" style="margin-top: -20px;">Hi, I'm Caner Yesiltas <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"></h1>
@@ -15,7 +18,7 @@ Passionate and dedicated aspiring front-end developer with a strong foundation i
 </p>
 
 <h3 align="center" style="margin-top: -10px;">Full stack developer with a love for frontend challenges.</h3>
-<h3 align="center" style="color: #87CEFA; margin-top: -10px;">Let's build something great together!</h3>
+<h3 align="center" style="color: #FFA500; margin-top: -10px;">Let's build something great together!</h3>
 
 <img align="right" top="500" height="150" width="250" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -96,3 +99,4 @@ Eager to contribute to innovative front-end projects, leverage my skills in a dy
 <p align="center">
   <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
 </p>
+
