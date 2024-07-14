@@ -22,12 +22,12 @@
 Passionate and dedicated aspiring front-end developer with a strong foundation in full-stack development from an intensive bootcamp. 🎓 Graduated with a degree in English of Economics, I bring a unique blend of analytical skills and creative problem-solving abilities to the tech industry. 💡 My experience in team projects has honed my collaboration skills, and my constant curiosity drives me to continuously learn and adapt in this ever-evolving field. 🚀
 </p>
 
-<h3 align="center" style="margin-top: -10px;">Full stack developer with a love for frontend challenges.</h3>
-<h3 align="center" style="color: #FFA500; margin-top: -10px;">Let's build something great together! </h3> 
+<h3 align="center" style="margin-top: -10px;">Full stack developer with a love for frontend challenges ♻️</h3>
+<h3 align="center" style="color: #FFA500; margin-top: -10px;">Let's build something great together! 💯 </h3> 
 
 <img align="right" top="500" height="150" width="250" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-What I Offer:  
+What I Offer
 * 🧑‍🤝‍🧑 **Team Collaboration**: Proven ability to work effectively in teams, ensuring smooth communication and collaborative problem-solving.
 * 📚 **Continuous Learning**: Enthusiastically embrace new technologies and methodologies to stay updated with industry trends.
 * 💻 **Technical Skills**: Proficient in HTML, CSS, JavaScript, and currently expanding my knowledge in frameworks and libraries such as React and TypeScript.
@@ -76,7 +76,7 @@ What I Offer:
   <img src="https://img.shields.io/badge/Styled+Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
 </p>
 
-## Looking Forward:
+## 🎯 Looking Forward
 
 Eager to contribute to innovative front-end projects, leverage my skills in a dynamic team, and grow within a forward-thinking organization. 🌟 Let's connect and explore how we can create impactful user experiences together. 🤝
 
