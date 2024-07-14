@@ -3,7 +3,7 @@
 </h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2397FF79&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Software+Developer;Passionate+About+Learning+🧙‍♂️;Always+Exploring+New+Technologies">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2397FF79&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Software+Developer💻;Passionate+About+Learning🧙‍♂️;Always+Exploring+New+Technologies">
   </a>
 </p>
 
@@ -11,7 +11,8 @@
   <img src="https://media.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif" width="100%" height="4">
 </p> 
 
-<h1 align="center" style="margin-top: -20px;">Hi, I'm Caner Yesiltas <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"></h1>
+<h1 align="center" style="margin-top: -20px;">Hi, I'm Caner Yesiltas <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
+                width="28" />  </h1>
 
 <p align="center">
    <img src="/mnt/data/code.gif" width="250px" height="200px" alt="coding gif">
@@ -22,11 +23,11 @@ Passionate and dedicated aspiring front-end developer with a strong foundation i
 </p>
 
 <h3 align="center" style="margin-top: -10px;">Full stack developer with a love for frontend challenges.</h3>
-<h3 align="center" style="color: #FFA500; margin-top: -10px;">Let's build something great together!</h3>
+<h3 align="center" style="color: #FFA500; margin-top: -10px;">Let's build something great together! <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> </h3> 
 
 <img align="right" top="500" height="150" width="250" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-## What I Offer:
+<picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture>  What I Offer: 
 
 * 🧑‍🤝‍🧑 **Team Collaboration**: Proven ability to work effectively in teams, ensuring smooth communication and collaborative problem-solving.
 * 📚 **Continuous Learning**: Enthusiastically embrace new technologies and methodologies to stay updated with industry trends.
@@ -46,10 +47,6 @@ Passionate and dedicated aspiring front-end developer with a strong foundation i
 <p align="center">
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="150px" alt="tools">
 </p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif" width="100%" height="4">
-</p> 
 
 <p align="center" style="margin-top: -20px;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -72,6 +69,7 @@ Passionate and dedicated aspiring front-end developer with a strong foundation i
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual+Studio+Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Custom+Hooks-FFD700?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Context+API-808080?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -107,4 +105,3 @@ Eager to contribute to innovative front-end projects, leverage my skills in a dy
 <p align="center">
   <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
 </p>
-
