@@ -23,12 +23,11 @@ Passionate and dedicated aspiring front-end developer with a strong foundation i
 </p>
 
 <h3 align="center" style="margin-top: -10px;">Full stack developer with a love for frontend challenges.</h3>
-<h3 align="center" style="color: #FFA500; margin-top: -10px;">Let's build something great together! <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> </h3> 
+<h3 align="center" style="color: #FFA500; margin-top: -10px;">Let's build something great together! </h3> 
 
 <img align="right" top="500" height="150" width="250" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture>  What I Offer: 
-
+What I Offer:  
 * 🧑‍🤝‍🧑 **Team Collaboration**: Proven ability to work effectively in teams, ensuring smooth communication and collaborative problem-solving.
 * 📚 **Continuous Learning**: Enthusiastically embrace new technologies and methodologies to stay updated with industry trends.
 * 💻 **Technical Skills**: Proficient in HTML, CSS, JavaScript, and currently expanding my knowledge in frameworks and libraries such as React and TypeScript.
@@ -40,9 +39,10 @@ Passionate and dedicated aspiring front-end developer with a strong foundation i
 
 <p align="center" style="margin-top: 20px;">
   <a href="https://github.com/caner-yesiltas">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caner-yesiltas&layout=compact&theme=radical" alt="caner-yesiltas's most used languages" width="300"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caner-yesiltas&layout=compact&theme=radical&langs_count=10&card_width=600" alt="caner-yesiltas's most used languages" width="600"/>
   </a>
 </p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="150px" alt="tools">
@@ -85,7 +85,8 @@ Eager to contribute to innovative front-end projects, leverage my skills in a dy
 </p> 
 
 <div align="center">
-  <h3><b>Let's get in touch! </b></h3>
+  <h3><b>Let's get in touch!  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px">
+  </b></h3>
 </div>
 <p align="center">
   <a href="https://www.linkedin.com/in/caner-yesiltas" target="_blank">
