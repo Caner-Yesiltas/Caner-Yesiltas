@@ -41,9 +41,11 @@ What I Offer
 
 <p align="center" style="margin-top: 20px;">
   <a href="https://github.com/caner-yesiltas">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caner-yesiltas&layout=compact&theme=radical&langs_count=10&card_width=600" alt="caner-yesiltas's most used languages" width="600"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caner-yesiltas&layout=compact&theme=radical&langs_count=10&card_width=495" alt="caner-yesiltas's most used languages" width="495"/>
   </a>
 </p>
+
+
 
 
 <p align="center">
@@ -108,3 +110,18 @@ Eager to contribute to innovative front-end projects, leverage my skills in a dy
 <p align="center">
   <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
 </p>
+
+
+
+
+
+<p align="center">
+  <strong> ~  Dynamic Random Quotes !~ </strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes"/>
+  </a>
+</p>
+
