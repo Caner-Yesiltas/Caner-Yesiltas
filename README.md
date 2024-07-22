@@ -33,7 +33,7 @@ What I Offer ☄️
 * 🧑‍🤝‍🧑 **Team Collaboration**: Proven ability to work effectively in teams, ensuring smooth communication and collaborative problem-solving.
 * 📚 **Continuous Learning**: Enthusiastically embrace new technologies and methodologies to stay updated with industry trends.
 * 💻 **Technical Skills**: Proficient in HTML, CSS, JavaScript, and currently expanding my knowledge in frameworks and libraries such as React and TypeScript.
-* 📂 **Project Experience**: Hands-on experience with various web development projects, showcased in my [GitHub repositories](https://github.com/caner-yesiltas?tab=repositories). 
+* 📂 **Project Experience**: Hands-on experience with various web development projects, showcased in my [GitHub repositories](https://github.com/caner-yesiltas?tab=repositories)
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23FFA500&size=25&center=true&vCenter=true&width=600&height=100&lines=Core+Technologies🔥"></a>
