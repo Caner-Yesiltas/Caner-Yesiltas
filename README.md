@@ -114,6 +114,9 @@ Eager to contribute to innovative front-end projects, leverage my skills in a dy
 
 
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Caner-Yesiltas&label=Profile%20views&color=orange&style=for-the-badge" alt="Profile Views"/>
+</p>
 
 <p align="center">
   <strong> ~  Dynamic Random Quotes !~ </strong>
