@@ -1,8 +1,7 @@
 <h1 align="center">
   Welcome to My GitHub Profile!
-  <img src="https://camo.githubusercontent.com/48a026f4399514afed27e76efb9f48e139a0ba4b613d933a8c7a094dc1da475c/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" width="50px" alt="React gif">
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50px" alt="React Logo Animation">
 </h1>
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2397FF79&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Software+Developer</💻>;Passionate+About+Learning🧙‍♂️;Always+Exploring+New+Technologies">
