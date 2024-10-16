@@ -24,9 +24,11 @@ Passionate and dedicated aspiring front-end developer with a strong foundation i
 </p>
 
 <h3 align="center" style="margin-top: -10px;">Full stack developer with a love for frontend challenges ♻️</h3>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Caner-Yesiltas&label=Profile%20views&color=orange&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Caner-Yesiltas&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
+
 <h3 align="center" style="color: #FFA500; margin-top: -10px;">Let's build something great together! 💯 </h3> 
 
 <img align="right" top="500" height="150" width="250" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
