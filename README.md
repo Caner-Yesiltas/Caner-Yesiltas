@@ -91,11 +91,11 @@ What I Offer ☄️
 
 | Project Name | Libraries and Technologies I use | How does my project look |
 |--------------|----------------------------------|-------------------------|
-| Employee Management System | React, Tailwind CSS, Custom Modal, State Management | <img src="images/EmployeeManagement.gif" width="600"> |
-| Currency Converter | React, Axios, FreeCurrencyAPI, CSS3 | <img src="images/Currency.gif" width="600"> |
-| Memory Game | React, React Hooks, CSS3 Animations | <img src="images/Memory.gif" width="600"> |
-| TaskFlow Manager | React, Bootstrap, UUID, LocalStorage | <img src="images/TaskFlow.gif" width="600"> |
-| Todo List | React, React Icons, Local Storage, CSS3 | <img src="images/Todo.gif" width="600"> |
+| [Employee Management System](https://employee-management-system-three-jade.vercel.app/) | React, Tailwind CSS, Custom Modal, State Management | <img src="images/EmployeeManagement.gif" width="450"> |
+| [Currency Converter](https://currency-app-woad.vercel.app/) | React, Axios, FreeCurrencyAPI, CSS | <img src="images/Currency.gif" width="450"> |
+| [Memory Game](https://memory-app-seven.vercel.app/) | React, Hooks, CSS Animations | <img src="images/Memory.gif" width="450"> |
+| [TaskFlow Manager](https://task-flow-manager.vercel.app/) | React, Bootstrap, UUID, LocalStorage | <img src="images/TaskFlow.gif" width="450"> |
+| [Todo List](https://todo-list-psi-ecru.vercel.app/) | React, React Icons, LocalStorage | <img src="images/Todo.gif" width="450"> |
 
 ## 🎯 Looking Forward
 
