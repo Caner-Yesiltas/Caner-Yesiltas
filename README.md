@@ -87,6 +87,16 @@ What I Offer ☄️
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
 </p>
 
+# My projects
+
+| Project Name | Libraries and Technologies I use | How does my project look |
+|--------------|----------------------------------|-------------------------|
+| Employee Management System | React, Tailwind CSS, Custom Modal, State Management | <img src="assets/demo.gif" width="600"> |
+| Currency Converter | React, Axios, FreeCurrencyAPI, CSS3 | <img src="assets/demo.gif.gif" width="600"> |
+| Memory Game | React, React Hooks, CSS3 Animations | <img src="assets/demo.gif" width="600"> |
+| TaskFlow Manager | React, Bootstrap, UUID, LocalStorage | <img src="./assets/demo.gif" width="600"> |
+| Todo List | React, React Icons, Local Storage, CSS3 | <img src="assets/demo.gif" width="600"> |
+
 ## 🎯 Looking Forward
 
 Eager to contribute to innovative front-end projects, leverage my skills in a dynamic team, and grow within a forward-thinking organization. 🌟 Let's connect and explore how we can create impactful user experiences together. 🤝
