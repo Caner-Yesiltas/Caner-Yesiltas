@@ -91,11 +91,11 @@ What I Offer ☄️
 
 | Project Name | Libraries and Technologies I use | How does my project look |
 |--------------|----------------------------------|-------------------------|
-| Employee Management System | React, Tailwind CSS, Custom Modal, State Management | <img src="assets/demo.gif" width="600"> |
-| Currency Converter | React, Axios, FreeCurrencyAPI, CSS3 | <img src="assets/demo.gif.gif" width="600"> |
-| Memory Game | React, React Hooks, CSS3 Animations | <img src="assets/demo.gif" width="600"> |
-| TaskFlow Manager | React, Bootstrap, UUID, LocalStorage | <img src="./assets/demo.gif" width="600"> |
-| Todo List | React, React Icons, Local Storage, CSS3 | <img src="assets/demo.gif" width="600"> |
+| Employee Management System | React, Tailwind CSS, Custom Modal, State Management | <img src="images/EmployeeManagement.gif" width="600"> |
+| Currency Converter | React, Axios, FreeCurrencyAPI, CSS3 | <img src="images/Currency.gif" width="600"> |
+| Memory Game | React, React Hooks, CSS3 Animations | <img src="images/Memory.gif" width="600"> |
+| TaskFlow Manager | React, Bootstrap, UUID, LocalStorage | <img src="images/TaskFlow.gif" width="600"> |
+| Todo List | React, React Icons, Local Storage, CSS3 | <img src="images/Todo.gif" width="600"> |
 
 ## 🎯 Looking Forward
 
