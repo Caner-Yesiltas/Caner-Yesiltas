@@ -87,27 +87,16 @@ What I Offer ☄️
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
 </p>
 
-# My projects
-
-| Project Name | Libraries and Technologies I use | How does my project look |
-|--------------|----------------------------------|-------------------------|
-| [Employee Management System](https://employee-management-system-three-jade.vercel.app/) | React, Tailwind CSS, Custom Modal, State Management | <img src="images/EmployeeManagement.gif" width="450"> |
-| [Currency Converter](https://currency-app-woad.vercel.app/) | React, Axios, FreeCurrencyAPI, CSS | <img src="images/Currency.gif" width="450"> |
-| [Memory Game](https://memory-app-seven.vercel.app/) | React, Hooks, CSS Animations | <img src="images/Memory.gif" width="450"> |
-| [TaskFlow Manager](https://task-flow-manager.vercel.app/) | React, Bootstrap, UUID, LocalStorage | <img src="images/TaskFlow.gif" width="450"> |
-| [Todo List](https://todo-list-psi-ecru.vercel.app/) | React, React Icons, LocalStorage | <img src="images/Todo.gif" width="450"> |
-| [Crunchyroll Anime Clone](https://boot-strap-crunchyroll-anime-assigment.vercel.app/) | Bootstrap 5, Font Awesome, Custom CSS Animations, HTML5 | <img src="images/Crunchyroll.gif" width="450"> |
-
 
 # My projects
 | Project Name | Libraries and Technologies I use | How does my project look |
 |--------------|----------------------------------|-------------------------|
-| [Employee Management System](https://employee-management-system-three-jade.vercel.app/)<br/>[Repo](https://github.com/canyesiltas/Employee-Management-System) | React, Tailwind CSS, Custom Modal, State Management | <img src="images/EmployeeManagement.gif" width="450"> |
-| [Currency Converter](https://currency-app-woad.vercel.app/)<br/>[Repo](https://github.com/canyesiltas/Currency-App) | React, Axios, FreeCurrencyAPI, CSS | <img src="images/Currency.gif" width="450"> |
-| [Memory Game](https://memory-app-seven.vercel.app/)<br/>[Repo](https://github.com/canyesiltas/Memory-App) | React, Hooks, CSS Animations | <img src="images/Memory.gif" width="450"> |
-| [TaskFlow Manager](https://task-flow-manager.vercel.app/)<br/>[Repo](https://github.com/canyesiltas/TaskFlow-Manager) | React, Bootstrap, UUID, LocalStorage | <img src="images/TaskFlow.gif" width="450"> |
-| [Todo List](https://todo-list-psi-ecru.vercel.app/)<br/>[Repo](https://github.com/canyesiltas/Todo-List) | React, React Icons, LocalStorage | <img src="images/Todo.gif" width="450"> |
-| [Crunchyroll Anime Clone](https://boot-strap-crunchyroll-anime-assigment.vercel.app/)<br/>[Repo](https://github.com/canyesiltas/Crunchyroll-Anime-Clone) | Bootstrap 5, Font Awesome, Custom CSS Animations, HTML5 | <img src="images/Crunchyroll.gif" width="450"> |
+| <small>[Employee Management System](https://employee-management-system-three-jade.vercel.app/)</small><br/><br/><h3>[Repo](https://github.com/canyesiltas/Employee-Management-System)</h3> | React, Tailwind CSS, Custom Modal, State Management | <img src="images/EmployeeManagement.gif" width="450"> |
+| <small>[Currency Converter](https://currency-app-woad.vercel.app/)</small><br/><br/><h3>[Repo](https://github.com/canyesiltas/Currency-App)</h3> | React, Axios, FreeCurrencyAPI, CSS | <img src="images/Currency.gif" width="450"> |
+| <small>[Memory Game](https://memory-app-seven.vercel.app/)</small><br/><br/><h3>[Repo](https://github.com/canyesiltas/Memory-App)</h3> | React, Hooks, CSS Animations | <img src="images/Memory.gif" width="450"> |
+| <small>[TaskFlow Manager](https://task-flow-manager.vercel.app/)</small><br/><br/><h3>[Repo](https://github.com/canyesiltas/TaskFlow-Manager)</h3> | React, Bootstrap, UUID, LocalStorage | <img src="images/TaskFlow.gif" width="450"> |
+| <small>[Todo List](https://todo-list-psi-ecru.vercel.app/)</small><br/><br/><h3>[Repo](https://github.com/canyesiltas/Todo-List)</h3> | React, React Icons, LocalStorage | <img src="images/Todo.gif" width="450"> |
+| <small>[Crunchyroll Anime Clone](https://boot-strap-crunchyroll-anime-assigment.vercel.app/)</small><br/><br/><h3>[Repo](https://github.com/canyesiltas/Crunchyroll-Anime-Clone)</h3> | Bootstrap 5, Font Awesome, Custom CSS Animations, HTML5 | <img src="images/Crunchyroll.gif" width="450"> |
 
 ## 🎯 Looking Forward
 
