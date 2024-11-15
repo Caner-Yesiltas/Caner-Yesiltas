@@ -96,6 +96,8 @@ What I Offer ☄️
 | [Memory Game](https://memory-app-seven.vercel.app/) | React, Hooks, CSS Animations | <img src="images/Memory.gif" width="450"> |
 | [TaskFlow Manager](https://task-flow-manager.vercel.app/) | React, Bootstrap, UUID, LocalStorage | <img src="images/TaskFlow.gif" width="450"> |
 | [Todo List](https://todo-list-psi-ecru.vercel.app/) | React, React Icons, LocalStorage | <img src="images/Todo.gif" width="450"> |
+| [Crunchyroll Anime Clone](https://boot-strap-crunchyroll-anime-assigment.vercel.app/) | Bootstrap 5, Font Awesome, Custom CSS Animations, HTML5 | <img src="images/Crunchyroll.gif" width="450"> |
+
 
 ## 🎯 Looking Forward
 
