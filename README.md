@@ -99,6 +99,16 @@ What I Offer ☄️
 | [Crunchyroll Anime Clone](https://boot-strap-crunchyroll-anime-assigment.vercel.app/) | Bootstrap 5, Font Awesome, Custom CSS Animations, HTML5 | <img src="images/Crunchyroll.gif" width="450"> |
 
 
+# My projects
+| Project Name | Libraries and Technologies I use | How does my project look |
+|--------------|----------------------------------|-------------------------|
+| [Employee Management System](https://employee-management-system-three-jade.vercel.app/)<br/>[Repo](https://github.com/canyesiltas/Employee-Management-System) | React, Tailwind CSS, Custom Modal, State Management | <img src="images/EmployeeManagement.gif" width="450"> |
+| [Currency Converter](https://currency-app-woad.vercel.app/)<br/>[Repo](https://github.com/canyesiltas/Currency-App) | React, Axios, FreeCurrencyAPI, CSS | <img src="images/Currency.gif" width="450"> |
+| [Memory Game](https://memory-app-seven.vercel.app/)<br/>[Repo](https://github.com/canyesiltas/Memory-App) | React, Hooks, CSS Animations | <img src="images/Memory.gif" width="450"> |
+| [TaskFlow Manager](https://task-flow-manager.vercel.app/)<br/>[Repo](https://github.com/canyesiltas/TaskFlow-Manager) | React, Bootstrap, UUID, LocalStorage | <img src="images/TaskFlow.gif" width="450"> |
+| [Todo List](https://todo-list-psi-ecru.vercel.app/)<br/>[Repo](https://github.com/canyesiltas/Todo-List) | React, React Icons, LocalStorage | <img src="images/Todo.gif" width="450"> |
+| [Crunchyroll Anime Clone](https://boot-strap-crunchyroll-anime-assigment.vercel.app/)<br/>[Repo](https://github.com/canyesiltas/Crunchyroll-Anime-Clone) | Bootstrap 5, Font Awesome, Custom CSS Animations, HTML5 | <img src="images/Crunchyroll.gif" width="450"> |
+
 ## 🎯 Looking Forward
 
 Eager to contribute to innovative front-end projects, leverage my skills in a dynamic team, and grow within a forward-thinking organization. 🌟 Let's connect and explore how we can create impactful user experiences together. 🤝
