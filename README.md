@@ -96,9 +96,9 @@ What I Offer ☄️
 | <small>[Memory Game](https://memory-app-seven.vercel.app/)</small><br/><br/><h3>[Repo](https://github.com/Caner-Yesiltas/Memory-App)</h3> | React, Hooks, CSS Animations | <img src="images/Memory.gif" width="450"> |
 | <small>[TaskFlow Manager](https://task-flow-manager.vercel.app/)</small><br/><br/><h3>[Repo](https://github.com/Caner-Yesiltas/TaskFlow-Manager)</h3> | React, React Bootstrap, UUID, LocalStorage | <img src="images/TaskFlow.gif" width="450"> |
 | <small>[Todo List](https://todo-list-psi-ecru.vercel.app/)</small><br/><br/><h3>[Repo](https://github.com/Caner-Yesiltas/Todo-List)</h3> | React, React Icons, Hooks | <img src="images/Todo.gif" width="450"> |
-| <small>[Legacy-XI](https://legacy-xi-xi.vercel.app/)</small><br/><br/><h3>[Repo](https://github.com/Caner-Yesiltas/Football-Legends-App)</h3> | React, React Bootstrap, CSS Modules | <img src="images/Futboll-Legends.gif" width="450"> |
-| <small>[React Interview Q&A](https://react-interview-questions-assigment.vercel.app/)</small><br/><br/><h3>[Repo](https://github.com/yourusername/react-interview-qa)</h3> | React, React Bootstrap, CSS3 | <img src="images/React-Interview.gif" width="450"> |
-| <small>[Hogwarts Stopwatch](https://hogwarts-stop-watch.vercel.app/)</small><br/><br/><h3>[Repo](https://github.com/Caner-Yesiltas/Hogwarts-Stopwatch)</h3> | Vanilla JS, DOM Manipulation, CSS Animations, Audio API  | <img src="images/hogwarts-stop-watch.gif" width="450"> |
+| <small>[Legacy-XI](https://legacy-xi-xi.vercel.app/)</small><br/><br/><h3>[Repo](https://github.com/Caner-Yesiltas/Legacy-XI)</h3> | React, React Bootstrap, CSS Modules | <img src="images/Futboll-Legends.gif" width="450"> |
+| <small>[React Interview Q&A](https://react-interview-questions-assigment.vercel.app/)</small><br/><br/><h3>[Repo](https://github.com/Caner-Yesiltas/React-Interview-Q-A)</h3> | React, React Bootstrap, CSS3 | <img src="images/React-Interview.gif" width="450"> |
+| <small>[Hogwarts Stopwatch](https://hogwarts-stop-watch.vercel.app/)</small><br/><br/><h3>[Repo](https://github.com/Caner-Yesiltas/Hogwarts-Stop-Watch-Assigment)</h3> | Vanilla JS, DOM Manipulation, CSS Animations, Audio API  | <img src="images/hogwarts-stop-watch.gif" width="450"> |
 | <small>[Crunchyroll Anime Clone](https://boot-strap-crunchyroll-anime-assigment.vercel.app/)</small><br/><br/><h3>[Repo](https://github.com/Caner-Yesiltas/Crunchyroll-Clone)</h3> | Bootstrap 5, Font Awesome, Custom CSS Animations, HTML5 | <img src="images/Crunchyroll.gif" width="450"> |
 
 
