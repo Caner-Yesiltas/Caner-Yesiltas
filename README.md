@@ -89,7 +89,7 @@ What I Offer ☄️
 
 
 # My projects
-| Project Name | Libraries and Technologies I use | How does my project look |
+| Project Name | Libraries and Technologies | How Does My Project Look |
 |--------------|----------------------------------|-------------------------|
 | <small>[Employee Management System](https://employee-management-system-three-jade.vercel.app/)</small><br/><br/><h3>[Repo](https://github.com/Caner-Yesiltas/Employee-Management-System)</h3> | React, Tailwind CSS, Custom Modal, State Management | <img src="images/EmployeeManagement.gif" width="450"> |
 | <small>[Currency Converter](https://currency-app-woad.vercel.app/)</small><br/><br/><h3>[Repo](https://github.com/Caner-Yesiltas/Currency-App)</h3> | React, Axios, FreeCurrencyAPI, CSS | <img src="images/Currency.gif" width="450"> |
