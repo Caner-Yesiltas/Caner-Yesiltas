@@ -37,7 +37,7 @@
 
 # Why I Love Coding ⚡️
 
-I found my true passion in coding because it's like playing a never-ending game - each new technology is a new level to master! 🎮✨
+I found my true passion in coding because it's like playing a never-ending game - each new technology is a new level to master! 🎮
 
 # About Me 🚀
 
