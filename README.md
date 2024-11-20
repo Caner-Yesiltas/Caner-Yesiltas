@@ -20,8 +20,8 @@
 </p>
 
 <p>
-I'm a passionate frontend developer fresh out of an intensive bootcamp! 💻 With my English Economics background, I discovered that coding is where analytical thinking meets creativity - and I love it! ✨ Always eager to take on new challenges and grow in this amazing tech journey! 🚀
-
+  
+ I'm a passionate frontend developer fresh out of an intensive bootcamp! 💻 With my English Economics background, I discovered that coding is where analytical thinking meets creativity - and I love it! ✨ Super excited about working with teams and learning new technologies every day. 🚀
 
 </p>
 
