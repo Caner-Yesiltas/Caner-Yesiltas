@@ -20,7 +20,9 @@
 </p>
 
 <p>
-Passionate and dedicated aspiring front-end developer with a strong foundation in full-stack development from an intensive bootcamp. 🎓 Graduated with a degree in English of Economics, I bring a unique blend of analytical skills and creative problem-solving abilities to the tech industry. 💡 My experience in team projects has honed my collaboration skills, and my constant curiosity drives me to continuously learn and adapt in this ever-evolving field. 🚀
+I'm a passionate frontend developer fresh out of an intensive bootcamp! 💻 With my English Economics background, I discovered that coding is where analytical thinking meets creativity - and I love it! ✨ Super excited about working with teams and learning new technologies every day. Always eager to take on new challenges and grow in this amazing tech journey! 🚀
+
+
 </p>
 
 <h3 align="center" style="margin-top: -10px;">Full stack developer with a love for frontend challenges ♻️</h3>
@@ -33,11 +35,19 @@ Passionate and dedicated aspiring front-end developer with a strong foundation i
 
 <img align="right" top="500" height="150" width="250" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-What I Offer ☄️
-* 🧑‍🤝‍🧑 **Team Collaboration**: Proven ability to work effectively in teams, ensuring smooth communication and collaborative problem-solving.
-* 📚 **Continuous Learning**: Enthusiastically embrace new technologies and methodologies to stay updated with industry trends.
-* 💻 **Technical Skills**: Proficient in HTML, CSS, JavaScript, and currently expanding my knowledge in frameworks and libraries such as React and TypeScript.
-* 📂 **Project Experience**: Hands-on experience with various web development projects, showcased in my [GitHub repositories](https://github.com/caner-yesiltas?tab=repositories)
+# Why I Love Coding ⚡️
+
+I found my true passion in coding because it's like playing a never-ending game - each new technology is a new level to master, every bug is a puzzle to solve! The constant learning and problem-solving in development keeps my mind engaged and excited. It's amazing how there's always something new to discover! 🎮✨
+
+# About Me 🚀
+
+- Worked as a Content Editor at TikTok for 2 years, which taught me the importance of user engagement and current trends 🎯
+- Lived in Ireland and traveled across the US and Europe, giving me adaptability and diverse perspectives 🌍
+- Active learner of Japanese language and tech enthusiast who's always up-to-date with the latest industry news 📱
+- Volunteered at animal shelters and community services, showing my dedication to teamwork and social responsibility 🤝
+- Love exploring different cultures and bringing diverse perspectives to my work - hoping to visit Japan one day! がんばります ✨
+
+📂 Check out my projects in my [GitHub repositories](https://github.com/caner-yesiltas?tab=repositories)
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23FFA500&size=25&center=true&vCenter=true&width=600&height=100&lines=Core+Technologies🔥"></a>
@@ -48,6 +58,7 @@ What I Offer ☄️
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caner-yesiltas&layout=compact&theme=radical&langs_count=10&card_width=495" alt="caner-yesiltas's most used languages" width="495"/>
   </a>
 </p>
+
 
 
 
