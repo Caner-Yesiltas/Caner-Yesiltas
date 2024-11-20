@@ -21,7 +21,7 @@
 
 <p>
   
- I'm a passionate frontend developer fresh out of an intensive bootcamp! 💻 With my English Economics background, I discovered that coding is where analytical thinking meets creativity - and I love it! ✨ Super excited about working with teams and learning new technologies every day. 🚀
+ I'm a passionate frontend developer fresh out of an intensive bootcamp! 💻 With my English Economics background, I discovered that coding is where analytical thinking meets creativity - and I love it! ☄️ Super excited about working with teams and learning new technologies every day. ☯️
 
 </p>
 
@@ -45,7 +45,7 @@ I found my true passion in coding because it's like playing a never-ending game 
 - Lived in Ireland and traveled across the US and Europe, giving me adaptability and diverse perspectives 🌍
 - Active learner of Japanese language and tech enthusiast who's always up-to-date with the latest industry news 📱
 - Volunteered at animal shelters and community services, showing my dedication to teamwork and social responsibility 🤝
-- Love exploring different cultures and bringing diverse perspectives to my work - hoping to visit Japan one day! がんばります ✨
+- Love exploring different cultures and bringing diverse perspectives to my work - hoping to visit Japan one day! がんばります 🍙
 
 📂 Check out my projects in my [GitHub repositories](https://github.com/caner-yesiltas?tab=repositories)
 
