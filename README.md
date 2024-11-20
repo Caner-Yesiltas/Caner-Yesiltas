@@ -20,7 +20,7 @@
 </p>
 
 <p>
-I'm a passionate frontend developer fresh out of an intensive bootcamp! 💻 With my English Economics background, I discovered that coding is where analytical thinking meets creativity - and I love it! ✨ Super excited about working with teams and learning new technologies every day. Always eager to take on new challenges and grow in this amazing tech journey! 🚀
+I'm a passionate frontend developer fresh out of an intensive bootcamp! 💻 With my English Economics background, I discovered that coding is where analytical thinking meets creativity - and I love it! ✨ Always eager to take on new challenges and grow in this amazing tech journey! 🚀
 
 
 </p>
@@ -37,7 +37,7 @@ I'm a passionate frontend developer fresh out of an intensive bootcamp! 💻 Wit
 
 # Why I Love Coding ⚡️
 
-I found my true passion in coding because it's like playing a never-ending game - each new technology is a new level to master, every bug is a puzzle to solve! The constant learning and problem-solving in development keeps my mind engaged and excited. It's amazing how there's always something new to discover! 🎮✨
+I found my true passion in coding because it's like playing a never-ending game - each new technology is a new level to master! 🎮✨
 
 # About Me 🚀
 
