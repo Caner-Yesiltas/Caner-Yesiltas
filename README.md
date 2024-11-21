@@ -46,7 +46,9 @@ I found my true passion in coding because it's like playing a never-ending game 
 - Volunteered at animal shelters and community services, showing my dedication to teamwork and social responsibility 🤝
 - Love exploring different cultures and bringing diverse perspectives to my work - hoping to visit Japan one day! がんばります 🍙
 
-📂 Check out my projects in my [GitHub repositories](https://github.com/caner-yesiltas?tab=repositories)
+<p align="center">
+  <a href="https://github.com/caner-yesiltas?tab=repositories">📂 Check out my projects in my GitHub repositories</a>
+</p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23FFA500&size=25&center=true&vCenter=true&width=600&height=100&lines=Core+Technologies🔥"></a>
