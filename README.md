@@ -43,7 +43,7 @@ I found my true passion in coding because it's like playing a never-ending game 
 - Worked as a Content Editor at TikTok for 2 years, which taught me the importance of user engagement and current trends 🎯
 - Lived in Ireland and traveled across the US and Europe, giving me adaptability and diverse perspectives 🌍
 - Active learner of Japanese language and tech enthusiast who's always up-to-date with the latest industry news 📱
-- Volunteered at animal shelters and community services, showing my dedication to teamwork and social responsibility 🤝
+- Volunteered at animal shelters and participated in community services 🤝
 - Love exploring different cultures and bringing diverse perspectives to my work - hoping to visit Japan one day! がんばります 🍙
 
 <p align="center">
