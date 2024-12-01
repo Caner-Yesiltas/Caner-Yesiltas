@@ -54,13 +54,13 @@ I found my true passion in coding because it's like playing a never-ending game 
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23FFA500&size=25&center=true&vCenter=true&width=600&height=100&lines=Core+Technologies🔥"></a>
 </p>
 
-<p align="center" style="margin-top: 20px; display: flex; justify-content: center; gap: 10px;">
-  <a href="https://github.com/caner-yesiltas">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caner-yesiltas&layout=donut&theme=radical&langs_count=6" alt="most used languages" width="320"/>
-  </a>
+<p align="center" style="margin-top: -20px;">
+  <img src="https://img.shields.io/badge/JavaScript-45.10%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML-31.59%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-18.88%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCSS-3.91%25-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-0.51%25-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
-
-
 
 
 <p align="center">
