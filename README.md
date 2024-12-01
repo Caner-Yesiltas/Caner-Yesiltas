@@ -54,12 +54,11 @@ I found my true passion in coding because it's like playing a never-ending game 
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23FFA500&size=25&center=true&vCenter=true&width=600&height=100&lines=Core+Technologies🔥"></a>
 </p>
 
-<p align="center" style="margin-top: 20px;">
+<p align="center" style="margin-top: 20px; display: flex; justify-content: center; gap: 10px;">
   <a href="https://github.com/caner-yesiltas">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caner-yesiltas&layout=compact&theme=radical&langs_count=10&card_width=495" alt="caner-yesiltas's most used languages" width="495"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caner-yesiltas&layout=donut&theme=radical&langs_count=6" alt="most used languages" width="320"/>
   </a>
 </p>
-
 
 
 
