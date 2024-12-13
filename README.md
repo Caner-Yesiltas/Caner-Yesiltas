@@ -48,7 +48,7 @@ I found my true passion in coding because it's like playing a never-ending game 
 
   
 <p align="center">
-  <a href="https://dev.to/yourprofile">📚 Check out my Dev.to articles for more insights on my coding journey</a>
+  <a href="https://dev.to/caner_yesiltas">📚 Check out my Dev.to articles for more insights on my coding journey</a>
 </p>
 
 <p align="center">
