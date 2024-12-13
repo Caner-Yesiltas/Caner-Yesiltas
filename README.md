@@ -140,6 +140,9 @@ Frontend developer who believes coding is more than just building projects - it'
   <a href="https://www.linkedin.com/in/caner-yesiltas" target="_blank">
     <img align="center" alt="Caner Yesiltas | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
+   <a href="https://dev.to/caner_yesiltas" target="_blank">
+    <img align="center" alt="Caner Yesiltas | Dev.to" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" />
+  </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/caner.yesiltas/" target="_blank">
     <img align="center" alt="Caner Yesiltas | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
