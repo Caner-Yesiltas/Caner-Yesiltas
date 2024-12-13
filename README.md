@@ -44,7 +44,12 @@ I found my true passion in coding because it's like playing a never-ending game 
 - Lived in Ireland and traveled across the US and Europe, giving me adaptability and diverse perspectives 
 - Active learner of Japanese language and tech enthusiast who's always up-to-date with the latest industry news 
 - Volunteered at animal shelters and participated in community services 
-- Love exploring different cultures and bringing diverse perspectives to my work - hoping to visit Japan one day! がんばります 
+- Love exploring different cultures and bringing diverse perspectives to my work - hoping to visit Japan one day! がんばります
+
+  
+<p align="center">
+  <a href="https://dev.to/yourprofile">📚 Check out my Dev.to articles for more insights on my coding journey</a>
+</p>
 
 <p align="center">
   <a href="https://github.com/caner-yesiltas?tab=repositories">📂 Check out my projects in my GitHub repositories</a>
