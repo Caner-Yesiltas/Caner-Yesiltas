@@ -121,7 +121,7 @@ I found my true passion in coding because it's like playing a never-ending game 
 
 ## 🎯 Looking Forward
 
-React developer who believes coding is more than just building projects - it's about learning, teaching, and growing together! Eager to join a team where I can contribute while helping others level up. Your next developer who codes with ❤️
+Frontend developer who believes coding is more than just building projects - it's about learning, teaching, and growing together! Eager to join a team where I can contribute while helping others level up. Your next developer who codes with ❤️
 
 <p align="center">
   <img src="https://media.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif" width="100%" height="4">
