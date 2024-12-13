@@ -22,7 +22,7 @@
 
 <p>
   
- I'm a passionate frontend developer and recent graduate of a 9-month Intensive Full Stack Software Development Bootcamp 💻 With my English Economics background, I discovered that coding is where analytical thinking meets creativity - and I love it! ☄️ Super excited about working with teams and learning new technologies every day. ☯️
+ I'm a passionate frontend developer and recent graduate of a 9-month Intensive Full Stack Software Development Bootcamp 💻 With my English Economics background, I discovered that coding is where analytical thinking meets creativity - and I love it! ☄️ Super excited about working with teams and learning new technologies every day. 
 
 </p>
 
@@ -35,16 +35,16 @@
 <h3 align="center" style="color: #FFA500; margin-top: -10px;">Let's build something great together! 💯 </h3> 
 <img align="right" top="500" height="150" width="250" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-## Why I Love Coding ⚡️
-I found my true passion in coding because it's like playing a never-ending game - each new technology is a new level to master! 🎮🔥
+## Why I Love Coding 🎮
+I found my true passion in coding because it's like playing a never-ending game - each new technology is a new level to master! 
 
-## About Me 🚀
+## About Me ⚡️
 
-- Worked as a Content Editor at TikTok for 2 years, which taught me the importance of user engagement and current trends 🎯
-- Lived in Ireland and traveled across the US and Europe, giving me adaptability and diverse perspectives 🌍
-- Active learner of Japanese language and tech enthusiast who's always up-to-date with the latest industry news 📱
-- Volunteered at animal shelters and participated in community services 🤝
-- Love exploring different cultures and bringing diverse perspectives to my work - hoping to visit Japan one day! がんばります 🍙
+- Worked as a Content Editor at TikTok for 2 years, which taught me the importance of user engagement and current trends 
+- Lived in Ireland and traveled across the US and Europe, giving me adaptability and diverse perspectives 
+- Active learner of Japanese language and tech enthusiast who's always up-to-date with the latest industry news 
+- Volunteered at animal shelters and participated in community services 
+- Love exploring different cultures and bringing diverse perspectives to my work - hoping to visit Japan one day! がんばります 
 
 <p align="center">
   <a href="https://github.com/caner-yesiltas?tab=repositories">📂 Check out my projects in my GitHub repositories</a>
