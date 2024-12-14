@@ -36,7 +36,7 @@
 <img align="right" top="500" height="150" width="250" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## Why I Love Coding 🎮
-I found my true passion in coding because it's like playing a never-ending game - each new technology is a new level to master! 
+I found my passion in coding because it combines problem-solving with creativity, making every project an opportunity to grow and innovate. For me, it's like a never-ending game - every new technology is a new level to master!
 
 ## About Me ⚡️
 
