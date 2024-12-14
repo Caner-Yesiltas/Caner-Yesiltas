@@ -32,6 +32,7 @@
   <img src="https://komarev.com/ghpvc/?username=Caner-Yesiltas&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
+<h3 align="center" style="color: #FFA500; margin-top: -10px;">Excited to contribute and grow with a team that's building the future of technology! 💯 </h3> 
 
 <img align="right" top="500" height="150" width="250" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -46,7 +47,7 @@ I found my passion in coding because it combines problem-solving with creativity
 - Volunteered at animal shelters and participated in community services 
 - Love exploring different cultures and bringing diverse perspectives to my work - hoping to visit Japan one day! がんばります
 
-<h3 align="center" style="color: #FFA500; margin-top: -10px;">Excited to contribute and grow with a team that's building the future of technology! 💯 </h3> 
+
   
 <p align="center">
   <a href="https://dev.to/caner_yesiltas">📚 Check out my Dev.to articles for more insights on my coding journey</a>
