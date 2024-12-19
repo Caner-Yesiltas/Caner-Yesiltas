@@ -23,6 +23,8 @@
 <p>
   
  I'm a passionate frontend developer and recent graduate of a 9-month Intensive Full Stack Software Development Bootcamp 💻 With my English Economics background, I discovered that coding is where analytical thinking meets creativity - and I love it! ☄️ Super excited about working with teams and learning new technologies every day. 
+ <br/>
+ So far, I've built over 15 frontend projects, including a user-focused web application that challenged me to combine design, functionality, and performance. I'm constantly experimenting with new ideas, pushing myself to create more advanced, visually engaging apps, and I look forward to sharing even more impressive projects soon.
 
 </p>
 
@@ -41,7 +43,7 @@ I found my passion in coding because it combines problem-solving with creativity
 
 ## About Me ⚡️
 
-- Worked as a Content Editor at TikTok for 2 years, which taught me the importance of user engagement and current trends 
+- Worked as a Content Editor at TikTok for 2 years, where I learned how user engagement and trends shape the experience. Today, I leverage these insights to build intuitive, user-friendly interfaces that keep audiences engaged.
 - Lived in Ireland and traveled across the US and Europe, giving me adaptability and diverse perspectives 
 - Active learner of Japanese language and tech enthusiast who's always up-to-date with the latest industry news 
 - Volunteered at animal shelters and participated in community services 
