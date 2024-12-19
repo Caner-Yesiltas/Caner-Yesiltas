@@ -20,12 +20,10 @@
    <img src="/mnt/data/code.gif" width="250px" height="200px" alt="coding gif">
 </p>
 
-<p>
-  
- I'm a passionate frontend developer and recent graduate of a 9-month Intensive Full Stack Software Development Bootcamp 💻 With my English Economics background, I discovered that coding is where analytical thinking meets creativity - and I love it! ☄️ Super excited about working with teams and learning new technologies every day. 
- <br/>
- So far, I've built over 15 frontend projects, including a user-focused web application that challenged me to combine design, functionality, and performance. I'm constantly experimenting with new ideas, pushing myself to create more advanced, visually engaging apps, and I look forward to sharing even more impressive projects soon.
-
+<p align="center">
+  I'm a passionate frontend developer and recent graduate of a 9-month Intensive Full Stack Software Development Bootcamp 💻 With my English Economics background, I discovered that coding is where analytical thinking meets creativity - and I love it! ☄️ Super excited about working with teams and learning new technologies every day. 
+  <br/><br/>
+  So far, I've built over 15 frontend projects, including a user-focused web application that challenged me to combine design, functionality, and performance. I'm constantly experimenting with new ideas, pushing myself to create more advanced, visually engaging apps, and I look forward to sharing even more impressive projects soon.
 </p>
 
 <h3 align="center" style="margin-top: -10px;">Frontend Developer with a passion for React ♻️ </h3>
