@@ -41,7 +41,7 @@ I found my passion in coding because it combines problem-solving with creativity
 
 ## About Me ⚡️
 
-- Worked as a Content Editor at TikTok for 2 years, where I learned how user engagement and trends shape the experience. Today, I leverage these insights to build intuitive, user-friendly interfaces that keep audiences engaged.
+- During my 2 years as a Content Editor at TikTok, I learned firsthand how users interact with content and what drives trends. Now I use this experience to build user-friendly interfaces focused on better user experiences.
 - Lived in Ireland and traveled across the US and Europe, giving me adaptability and diverse perspectives 
 - Active learner of Japanese language and tech enthusiast who's always up-to-date with the latest industry news 
 - Volunteered at animal shelters and participated in community services 
