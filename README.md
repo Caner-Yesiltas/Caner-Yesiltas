@@ -47,8 +47,8 @@ I found my passion in coding because it combines problem-solving with creativity
 - 2 years as a Content Editor at TikTok taught me how users interact with content and what drives trends.
 - Lived in Ireland, traveled across the US and Europe, adapting to diverse cultures.
 - Active learner of Japanese and a tech enthusiast who enjoys staying up-to-date with industry news.
-- Volunteered at animal shelters and in community services. <br/><br/>
--Always eager to explore different cultures—I hope to visit Japan one day! がんばります
+- Volunteered at animal shelters and in community services.
+- Always eager to explore different cultures I hope to visit Japan one day! がんばります
 
 
   
