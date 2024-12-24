@@ -48,7 +48,7 @@ I found my passion in coding because it combines problem-solving with creativity
 - Lived in Ireland, traveled across the US and Europe, adapting to diverse cultures.
 - Active learner of Japanese and a tech enthusiast who enjoys staying up-to-date with industry news.
 - Volunteered at animal shelters and in community services.
-- Hoping to visit Japan one day! がんばります
+-Always eager to explore different cultures—I hope to visit Japan one day! がんばります
 
 
   
