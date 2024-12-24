@@ -23,7 +23,7 @@
 <p align="center">
  I'm a frontend developer and a recent graduate of a 9-month Intensive Full Stack Software 
   Development IT School. With my English Economics background, I discovered that coding is 
-  where analytical thinking meets creativity—and I love it. ☄️ 
+  where analytical thinking meets creativity and I love it. ☄️ 
   Eager to work with teams and learn new technologies every day. 
   <br/><br/>
  So far, I've built over 15 frontend projects, including a user-focused web application that challenged me to combine design, functionality, and performance. I'm constantly experimenting with new ideas, pushing myself to create more advanced, visually engaging apps and I look forward to sharing even more impressive projects soon.
