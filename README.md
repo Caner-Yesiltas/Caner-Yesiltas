@@ -132,7 +132,10 @@ I found my passion in coding because it combines problem-solving with creativity
 
 ## 🎯 Looking Forward
 
-Frontend developer who believes coding is more than just building projects - it's about learning, teaching, and growing together! Eager to join a team where I can contribute while helping others level up. Your next developer who codes with ❤️
+
+Frontend developer who believes coding is more than just building projects - it's about learning, teaching, and growing together! Excited to join a team where I can contribute while helping others level up. Your next developer who codes with ❤️
+
+Can’t wait to connect and help build the future of technology!
 
 <p align="center">
   <img src="https://media.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif" width="100%" height="4">
