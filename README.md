@@ -50,12 +50,6 @@ I found my passion in coding because it combines problem-solving with creativity
 - Volunteered at animal shelters and in community services.
 - Always eager to explore different cultures I hope to visit Japan one day! がんばります
 
-
-  
-<p align="center">
-  <a href="https://dev.to/caner_yesiltas">📚 Check out my Dev.to articles for more insights on my coding journey</a>
-</p>
-
 <p align="center">
   <a href="https://github.com/caner-yesiltas?tab=repositories">📂 Check out my projects in my GitHub repositories</a>
 </p>
