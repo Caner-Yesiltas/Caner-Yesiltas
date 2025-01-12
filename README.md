@@ -148,16 +148,22 @@ Can’t wait to connect and help build the future of technology!
 </div>
 <p align="center">
   <a href="https://www.linkedin.com/in/caner-yesiltas-3742ab138/" target="_blank">
-    <img align="center" alt="Caner Yesiltas | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+    <img align="center" alt="Caner Yesiltas | LinkedIn" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
-   <a href="https://dev.to/caner_yesiltas" target="_blank">
+  <a href="https://leetcode.com/u/Caner_Yesiltas/" target="_blank">
+    <img align="center" alt="Caner Yesiltas | LeetCode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />
+  </a> &nbsp;&nbsp;
+  <a href="https://medium.com/@Caner_Yesiltas" target="_blank">
+    <img align="center" alt="Caner Yesiltas | Medium" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://dev.to/caner_yesiltas" target="_blank">
     <img align="center" alt="Caner Yesiltas | Dev.to" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/caner.yesiltas/" target="_blank">
     <img align="center" alt="Caner Yesiltas | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:caner_yesiltas@hotmail.com" >
-    <img align="center" alt="Caner Yesiltas | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  <a href="mailto:caner_yesiltas@hotmail.com">
+    <img align="center" alt="Caner Yesiltas | Email" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://www.facebook.com/caner.yesiltas" target="_blank">
     <img align="center" alt="Caner Yesiltas | Facebook" width="24px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />
