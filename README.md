@@ -26,7 +26,7 @@
   where analytical thinking meets creativity and I love it. ☄️ 
   Eager to work with teams and learn new technologies every day. 
   <br/><br/>
- So far, I've built over 15 frontend projects, including a user-focused web application that challenged me to combine design, functionality, and performance. I'm constantly experimenting with new ideas, pushing myself to create more advanced, visually engaging apps and I look forward to sharing even more impressive projects soon.
+ So far, I've built over 17 frontend projects, including a user-focused web application that challenged me to combine design, functionality, and performance. I'm constantly experimenting with new ideas, pushing myself to create more advanced, visually engaging apps and I look forward to sharing even more impressive projects soon.
 </p>
 
 <h3 align="center" style="margin-top: -10px;">Frontend Developer with passion for React ♻️ </h3> 
