@@ -21,12 +21,10 @@
 </p>
 
 <p align="center">
- I'm a frontend developer and a recent graduate of a 9-month Intensive Full Stack Software 
-  Development IT School. With my English Economics background, I discovered that coding is 
-  where analytical thinking meets creativity and I love it. ☄️ 
-  Eager to work with teams and learn new technologies every day. 
+I'm a frontend developer and a recent graduate of a 9-month Intensive Full Stack Software Development IT School, where I discovered that coding is the perfect mix of analytical thinking and creativity and I absolutely love it!. ☄️ 
+
   <br/><br/>
- So far, I've built over 17 frontend projects, including a user-focused web application that challenged me to combine design, functionality, and performance. I'm constantly experimenting with new ideas, pushing myself to create more advanced, visually engaging apps and I look forward to sharing even more impressive projects soon.
+So far, I’ve built 17+ frontend projects, experimenting with React, TypeScript, Redux, and Next.js to deliver visually engaging and efficient apps. I’m always pushing myself to learn new technologies and refine my skills, and I look forward to sharing even more ambitious projects soon.
 </p>
 
 <h3 align="center" style="margin-top: -10px;">Frontend Developer with passion for React ♻️ </h3> 
@@ -44,11 +42,11 @@ I found my passion in coding because it combines problem-solving with creativity
 
 ## About Me ⚡️
 
-- 2 years as a Content Editor at TikTok taught me how users interact with content and what drives trends.
-- Lived in Ireland, traveled across the US and Europe, adapting to diverse cultures.
-- Active learner of Japanese and a tech enthusiast who enjoys staying up-to-date with industry news.
-- Volunteered at animal shelters and in community services.
-- Always eager to explore different cultures I hope to visit Japan one day! がんばります
+- TikTok Content Editor (2 years): Observed user engagement and digital trends firsthand, now I apply that knowledge to create user-friendly interfaces.
+- Lived in Ireland and traveled around the US & Europe, which enhanced my adaptability, communication skills, and cultural awareness.
+- Currently learning Japanese and volunteering in community projects, giving back is important to me!
+- With a background in English Economics, I bring structured analytical thinking to every project.
+- Always eager to explore different cultures, I hope to visit Japan one day! がんばります
 
 <p align="center">
   <a href="https://github.com/caner-yesiltas?tab=repositories">📂 Check out my projects in my GitHub repositories</a>
@@ -127,10 +125,11 @@ I found my passion in coding because it combines problem-solving with creativity
 | <small>[Crunchyroll Anime Clone](https://boot-strap-crunchyroll-anime-assigment.vercel.app/)</small><br/><br/><h3>[Repo](https://github.com/Caner-Yesiltas/Crunchyroll-Clone)</h3> | Bootstrap 5 • Font Awesome • CSS Animations | <img src="images/Crunchyroll.gif"   width="485" height="270"> |
 
 
-## 🎯 Looking Forward
+## 🎯 What’s Next
 
 
-Frontend developer who believes coding is more than just building projects - it's about learning, teaching, and growing together! Excited to join a team where I can contribute while helping others level up. Your next developer who codes with ❤️
+Frontend developer who believes coding is more than just building projects - it's about learning, teaching, and growing together! Excited to join a team where I can contribute while helping others level up. 
+
 
 Can’t wait to connect and help build the future of technology!
 
