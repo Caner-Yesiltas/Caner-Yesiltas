@@ -23,7 +23,7 @@
 <p align="center">
 I'm a frontend developer and a recent graduate of a 9-month Intensive Full Stack Software Development IT School, where I discovered that coding is the perfect mix of analytical thinking and creativity. ☄️ 
   <br/><br/>
-So far, I’ve built 17+ frontend projects, experimenting with React, TypeScript, Redux, and Next.js to deliver visually engaging and efficient apps. I’m always pushing myself to learn new technologies and refine my skills, and I look forward to sharing even more ambitious projects soon.
+So far, I’ve built 19+ frontend projects, experimenting with React, TypeScript, Redux, and Next.js to deliver visually engaging and efficient apps. I’m always pushing myself to learn new technologies and refine my skills, and I look forward to sharing even more ambitious projects soon.
 </p>
 
 <h3 align="center" style="margin-top: -10px;">Frontend Developer with passion for React ♻️ </h3> 
