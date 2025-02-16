@@ -115,7 +115,7 @@ I found my passion in coding because it combines problem-solving with creativity
 </p>
 
 # My projects
-| Project Name | Libraries and Technologies | How Does My Project Look |
+| 📌 Project Name | ⚙️ Libraries and Technologies |🎬 How Does My Project Look |
 |--------------|----------------------------------|-------------------------|
 | <p align="center"><a href="https://swift-store-rho.vercel.app/"><strong>🛍️ Swift Store</strong></a> <br><br> <a href="https://github.com/Caner-Yesiltas/Swift-Store"><img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github"></a></p> | TypeScript • Router • Redux Toolkit • Tailwind CSS • Axios • React Toastify • DummyJSON API | <img src="images/Swift-Store.gif" width="485" height="270"> |
 | <p align="center"><a href="https://umbrella-corporation-projects-2dbd.vercel.app/"><strong>☔ Umbrella Corporation Projects</strong></a> <br><br> <a href="https://github.com/Caner-Yesiltas/Umbrella-Corporation-Projects"><img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github"></a></p> | TypeScript • Material-UI • Axios • MockAPI • SweetAlert2 | <img src="images/Umbrella-Projects.gif" width="485" height="270"> |
