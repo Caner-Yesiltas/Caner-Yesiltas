@@ -59,17 +59,17 @@ I found my passion in coding because it combines problem-solving with creativity
   
   <!-- Sol Panel - GitHub Stats -->
   <a href="https://github.com/caner-yesiltas">
-    <img src="https://github-readme-stats.vercel.app/api?username=caner-yesiltas&show_icons=true&theme=radical" width="35%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=caner-yesiltas&show_icons=true&theme=radical" width="30%" height="150px"/>
   </a>
 
   <!-- Orta Panel - Most Used Languages -->
   <a href="https://github.com/caner-yesiltas">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caner-yesiltas&layout=compact&theme=radical&langs_count=8" width="32%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caner-yesiltas&layout=compact&theme=radical&langs_count=8" width="30%" height="150px"/>
   </a>
 
-  <!-- Sağ Panel - GitHub Streak Stats (Aynı Boyutta Yapıldı) -->
+  <!-- Sağ Panel - GitHub Streak Stats -->
   <a href="https://github.com/caner-yesiltas">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=caner-yesiltas&theme=radical" width="25%"  />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=caner-yesiltas&theme=radical" width="30%" height="150px"/>
   </a>
 
 </p>
