@@ -54,13 +54,28 @@ I found my passion in coding because it combines problem-solving with creativity
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23FFA500&size=25&center=true&vCenter=true&width=600&height=100&lines=Core+Technologies🔥"></a>
 </p>
+  
+<p align="center">
+  
+  <!-- Sol Panel - GitHub Stats -->
+  <a href="https://github.com/caner-yesiltas">
+    <img src="https://github-readme-stats.vercel.app/api?username=caner-yesiltas&show_icons=true&theme=radical" width="35%" />
+  </a>
 
+  <!-- Orta Panel - Most Used Languages -->
+  <a href="https://github.com/caner-yesiltas">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caner-yesiltas&layout=compact&theme=radical&langs_count=8" width="32%" />
+  </a>
 
- <p align="center">
- <a href="https://github.com/caner-yesiltas">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caner-yesiltas&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
- </a>
+  <!-- Sağ Panel - GitHub Streak Stats (Aynı Boyutta Yapıldı) -->
+  <a href="https://github.com/caner-yesiltas">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=caner-yesiltas&theme=radical" width="25%"  />
+  </a>
+
 </p>
+
+
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="150px" alt="tools">
