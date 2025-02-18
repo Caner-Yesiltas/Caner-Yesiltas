@@ -72,7 +72,7 @@ I found my passion in coding because it combines problem-solving with creativity
 
 <p align="center">
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="150px" alt="tools">
-</p>
+
 
 <p align="center" style="margin-top: -20px;">
 
@@ -122,7 +122,10 @@ I found my passion in coding because it combines problem-solving with creativity
   <img src="https://img.shields.io/badge/Visual+Studio+Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
 
-# My Innovative ⚛️ Creations ♾️
+<div align="center">
+  <h1>My Innovative ⚛️ Creations ♾️</h1>
+</div>
+
 | 📌 Project Name  (Live Demo) / Repo | ⚙️ Libraries and Technologies |🎬 Live Preview |
 |--------------|----------------------------------|-------------------------|
 | <p align="center"><a href="https://swift-store-rho.vercel.app/"><strong>🛍️ Swift Store - (Live Demo) </strong></a> <br><br> <a href="https://github.com/Caner-Yesiltas/Swift-Store"><img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github"></a></p> | <ul> <li>TypeScript</li> <li>Redux Toolkit</li> <li>React Router</li> <li>Tailwind CSS</li> <li>Axios</li> <li>React Toastify</li> <li>DummyJSON API</li> </ul> | <img src="images/Swift-Store.gif" width="485" height="270"> |
