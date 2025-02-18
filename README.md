@@ -63,9 +63,10 @@ I found my passion in coding because it combines problem-solving with creativity
   </a>
   
   <a href="https://github.com/caner-yesiltas">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Caner-Yesiltas&theme=tokyonight&hide_border=false" width="45%" alt="GitHub Streak"/>
+<img src="https://streak-stats.vercel.app/?user=Caner-Yesiltas&theme=tokyonight&hide_border=false" width="45%" alt="GitHub Streak"/>
   </a>
 </p>
+
 
 
 
