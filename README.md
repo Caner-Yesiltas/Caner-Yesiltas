@@ -60,14 +60,17 @@ I found my passion in coding because it combines problem-solving with creativity
 <p align="center">
   
   <a href="https://github.com/caner-yesiltas">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caner-yesiltas&layout=compact&theme=radical&langs_count=8" width="300" height="170" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caner-yesiltas&layout=compact&theme=radical&langs_count=8" width="300" height="170" alt="Top Languages"/
   </a>
-
 </p>
 
 
 
-
+<p align="center">
+  <a href="https://github.com/caner-yesiltas">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Caner-Yesiltas&theme=dark&hide_border=false" width="400px" height="150px" alt="GitHub Streak" />
+  </a>
+</p>
 
 
 
