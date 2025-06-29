@@ -174,46 +174,41 @@ Can’t wait to connect and help build the future of technology!
   </b></h3>
 </div>
 
-<!-- Tabloyu Ortalamak İçin Ekstra Bir Div -->
+
 <div align="center">
   <table>
     <tr>
-      <td style="padding: 0 8px;"> <!-- Hücre içi sağ/sol boşluk -->
+      <td style="padding: 0 8px;"> 
         <a href="https://www.linkedin.com/in/caner-yesiltas-3742ab138/" target="_blank">
           <img align="center" alt="Caner Yesiltas | LinkedIn" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
         </a>
       </td>
-      <td style="padding: 0 8px;"> <!-- Hücre içi sağ/sol boşluk -->
+      <td style="padding: 0 8px;"> 
         <a href="https://www.caneryesiltas.com" target="_blank">
           <img align="center" alt="Caner Yesiltas | Website" width="26px" src="https://img.icons8.com/color/48/home.png" />
         </a>
       </td>
-      <td style="padding: 0 8px;"> <!-- Hücre içi sağ/sol boşluk -->
-        <a href="https://leetcode.com/u/Caner_Yesiltas/" target="_blank">
-          <img align="center" alt="Caner Yesiltas | LeetCode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" style="filter: invert(1);" />
-        </a>
-      </td>
-      <td style="padding: 0 8px;"> <!-- Hücre içi sağ/sol boşluk -->
+      <td style="padding: 0 8px;">
         <a href="https://medium.com/@Caner_Yesiltas" target="_blank">
           <img align="center" alt="Caner Yesiltas | Medium" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" style="filter: invert(1);" />
         </a>
       </td>
-      <td style="padding: 0 8px;"> <!-- Hücre içi sağ/sol boşluk -->
+      <td style="padding: 0 8px;"> 
         <a href="https://dev.to/caner_yesiltas" target="_blank">
           <img align="center" alt="Caner Yesiltas | Dev.to" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" />
         </a>
       </td>
-      <td style="padding: 0 8px;"> <!-- Hücre içi sağ/sol boşluk -->
+      <td style="padding: 0 8px;"> 
         <a href="mailto:caner_yesiltas@hotmail.com">
           <img align="center" alt="Caner Yesiltas | Email" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
         </a>
       </td>
-      <td style="padding: 0 8px;"> <!-- Hücre içi sağ/sol boşluk -->
+      <td style="padding: 0 8px;"> 
         <a href="https://www.instagram.com/caner.yesiltas/" target="_blank">
           <img align="center" alt="Caner Yesiltas | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
         </a>
       </td>
-      <td style="padding: 0 8px;"> <!-- Hücre içi sağ/sol boşluk -->
+      <td style="padding: 0 8px;"> 
         <a href="https://www.facebook.com/caner.yesiltas" target="_blank">
           <img align="center" alt="Caner Yesiltas | Facebook" width="24px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />
         </a>
