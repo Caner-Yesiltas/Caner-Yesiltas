@@ -5,7 +5,7 @@
 
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2397FF79&size=25¢er=true&vCenter=true&width=600&height=100&lines=Technical+Support+|+User-Focused+Developer;Building+Solutions+with+TS,+Sass+%26+React;Bridging+the+Gap+Between+Users+%26+Tech">
+<img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=%2397FF79&size=25¢er=true&vCenter=true&width=600&height=100&lines=Technical+Support+Mindset+|+Customer-First+Approach;Analyzing+%26+Debugging+Complex+Apps+with+TS,+Sass+%26+React;Empowering+Users+with+Effective+Technical+Solutions">
 </p>
 
 <p align="center">
@@ -20,18 +20,18 @@
 </p>
 
 <p align="center">
-As a front-end developer and graduate of a 9-month Intensive Full Stack Software Development IT School, where I discovered that coding is the perfect mix of analytical thinking and creativity. ☄️ 
-  <br/><br/>
-So far, I’ve built 20+ frontend projects, experimenting with React, TypeScript, Redux, and Next.js to deliver visually engaging and efficient apps. I’m always pushing myself to learn new technologies and refine my skills, and I look forward to sharing even more ambitious projects soon.
+My journey into technology is built on a crucial foundation: <strong>2 years on the front lines of customer support.</strong> That experience, handling thousands of real-world user issues, taught me that the best code is written with empathy.
+<br/><br/>
+Today, I use that user-first perspective to <strong>analyze and debug</strong> complex applications. My expertise in <strong>TypeScript, Sass, and React</strong> isn't just about building things; it's about understanding how they work, why they break, and how to make them better for the end-user.
 </p>
 
-<h3 align="center" style="margin-top: -10px;">Frontend Developer with passion for React ♻️ </h3> 
+<h3 align="center" style="margin-top: -10px;">Solving Problems Where Code Meets the Customer  💯 </h3> 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Caner-Yesiltas&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
-<h3 align="center" style="color: #FFA500; margin-top: -10px;">Excited to contribute and grow with a team that's building the future of technology! 💯 </h3> 
+
 
 <img align="right" top="500" height="150" width="250" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
