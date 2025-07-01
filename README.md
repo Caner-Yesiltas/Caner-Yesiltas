@@ -20,12 +20,12 @@
 </p>
 
 <p align="center">
-My journey into technology is built on a crucial foundation: <strong>2 years on the front lines of customer support.</strong> That experience, handling thousands of real-world user issues, taught me that the best code is written with empathy.
+I'm a Technical Support Engineer who thrives on solving complex puzzles. My journey started on the front lines of customer support, where I handled thousands of real-world user issues and learned a fundamental truth: <strong>great technology requires even greater support.</strong>
 <br/><br/>
-Today, I use that user-first perspective to <strong>analyze and debug</strong> complex applications. My expertise in <strong>TypeScript, Sass, and React</strong> isn't just about building things; it's about understanding how they work, why they break, and how to make them better for the end-user.
+Today, I combine my deep-seated user empathy with technical expertise in modern web stacks. I don't just see a bug report; I see the user's frustration behind it. My goal is to diagnose the "why" and deliver clear, effective solutions that restore their confidence in the product.
 </p>
 
-<h3 align="center" style="margin-top: -10px;">Solving Problems Where Code Meets the Customer  💯 </h3> 
+<h3 align="center" style="margin-top: -10px;">A Bridge Between The User and The Code 💯 </h3> 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Caner-Yesiltas&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
@@ -35,42 +35,22 @@ Today, I use that user-first perspective to <strong>analyze and debug</strong> c
 
 <img align="right" top="500" height="150" width="250" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-## Why I Love Coding 🎮
-I found my passion in coding because it combines problem-solving with creativity, making every project an opportunity to grow and innovate. For me, it's like a never-ending game - every new technology is a new level to master!
+## Core Philosophy: Diagnose, Then Resolve 🧩
+For me, the real thrill is in the investigation. I excel at digging into complex application issues, performing root cause analysis, and translating technical findings into actionable steps for both users and development teams. Every resolved ticket is a win for the user experience.
 
 ## About Me ⚡️
 
-- TikTok Content Editor (2 years): Observed user engagement and digital trends firsthand, now I apply that knowledge to create user-friendly interfaces.
-- Lived in Ireland and traveled around the US & Europe, which enhanced my adaptability, communication skills, and cultural awareness.
-- Currently learning Japanese and volunteering in community projects, giving back is important to me!
-- With a background in English Economics, I bring structured analytical thinking to every project.
-- Always eager to explore different cultures, I hope to visit Japan one day! がんばります
+- <strong>High-Volume Technical Support (Türk Telekom, 2.5 years): Served as the first point of contact at a major GSM operator, mastering the ability to rapidly triage issues, manage user expectations under pressure, and communicate technical concepts with clarity and precision.
+
+- <strong>User Engagement Analysis (TikTok, 2 years): Analyzed user behavior data to understand what makes a digital product successful. This role gave me a data-backed foundation in identifying user pain points and anticipating their needs proactively.
+
+- <strong>Systematic Problem-Solving (B.A. in Economics): My economics background trained me to think in systems, identify root causes instead of symptoms, and find the most efficient path to a working solution.
+
+- <strong>Global Adaptability & Communication (International Experience): Living and working in diverse international settings has made me highly adaptable. I am skilled at collaborating with global teams and communicating effectively with users from a wide range of backgrounds.
 
 <p align="center">
   <a href="https://github.com/caner-yesiltas?tab=repositories">📂 Check out my projects in my GitHub repositories</a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23FFA500&size=25&center=true&vCenter=true&width=600&height=100&lines=Core+Technologies🔥">
-  </a>
-</p>
-  
-<p align="center">
-  <a href="https://github.com/caner-yesiltas">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caner-yesiltas&layout=compact&theme=tokyonight&langs_count=8" width="32%" alt="Top Languages"/>
-  </a>
-  
-  <a href="https://github.com/caner-yesiltas">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.vercel.app/?user=Caner-Yesiltas&theme=tokyonight&hide_border=false" />
-      <source media="(prefers-color-scheme: light)" srcset="https://git-streak-stats.herokuapp.com/?user=Caner-Yesiltas&theme=tokyonight&hide_border=false" />
-      <img src="https://streak-stats.demolab.com/?user=Caner-Yesiltas&theme=tokyonight&hide_border=false" width="45%" alt="GitHub Streak"/>
-    </picture>
-  </a>
-</p>
-
-
 
 
 <p align="center">
@@ -79,79 +59,37 @@ I found my passion in coding because it combines problem-solving with creativity
 
 <p align="center" style="margin-top: -20px;">
 
-  <!-- Core -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+## Technical Toolkit for Support & Troubleshooting 🛠️
 
-  <!-- React-->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Custom+Hooks-FFD700?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Context+API-808080?style=for-the-badge&logo=react&logoColor=white" />
+My approach is to use the right tool for the right problem. I leverage my knowledge of the modern web stack to efficiently diagnose and resolve user-facing issues.
 
-  <!-- Styling -->
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Styled+Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
+-   **Frontend Debugging & Analysis**
+    -   I use my deep understanding of **React** (including Hooks & Context API), **TypeScript**, and browser dev tools to trace bugs, analyze component lifecycle issues, and pinpoint the root cause of UI/UX problems.
+    -   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-  <!-- Testing  -->
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=rest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
-  <img src="https://img.shields.io/badge/Formik-666666?style=for-the-badge&logo=formik&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+-   **API & Network Troubleshooting**
+    -   I am proficient with tools like **Postman** and **Axios** to inspect API requests/responses, replicate network errors, and verify if a problem originates from the frontend or backend.
+    -   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=rest&logoColor=white" /> <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 
-  <!-- Deployment & Hosting -->
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+-   **Understanding Complex Architectures**
+    -   My experience with **Next.js** for SSR/SSG and **Redux** for global state management allows me to understand and debug issues in large-scale, complex applications.
+    -   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 
-  <!-- Development  -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/GitFlow-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual+Studio+Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+-   **Development & Support Workflow**
+    -   I use **Git/GitHub** for version control and bug documentation, following structured workflows to collaborate effectively with engineering teams.
+    -   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Visual+Studio+Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
 
 <div align="center">
-  <h1>My Innovative ⚛️ Creations ♾️</h1>
+  <h1>Applied Problem-Solving: Project Examples 🧩</h1>
 </div>
 
 | 📌 Project Name  (Live Demo) / Repo | ⚙️ Libraries and Technologies |🎬 Live Preview |
 |--------------|----------------------------------|-------------------------|
-| <p align="center"><a href="https://netflix-verse-eight.vercel.app/"><strong>🎬 Netflix Verse - (Live Demo) </strong></a> <br><br> <a href="https://github.com/Caner-Yesiltas/Netflix-Verse"><img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github"></a></p> | <ul> <li>Nextjs</li> <li>Context API</li> <li>Firebase Authentication</li> <li>Tailwind CSS</li> <li>React Loader Spinner</li> <li>Hero Icons</li>  <li>Fetch</li> <li>React Toastify</li> <li>TMDB API</li>  <li>Session Storage</li> <li>Headless UI</li> <li>Use-Debounce (Search Optimization)</li> </ul> | <img src="images/Netflix-Verse.gif" width="485" height="270"> |
-| <p align="center"><a href="https://swift-store-rho.vercel.app/"><strong>🛍️ Swift Store - (Live Demo) </strong></a> <br><br> <a href="https://github.com/Caner-Yesiltas/Swift-Store"><img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github"></a></p> | <ul> <li>TypeScript</li> <li>Redux Toolkit</li> <li>React Router</li> <li>Tailwind CSS</li> <li>Axios</li> <li>React Toastify</li> <li>DummyJSON API</li> </ul> | <img src="images/Swift-Store.gif" width="485" height="270"> |
-| <p align="center"><a href="https://sky-shop-swart.vercel.app/"><strong>⛈️ Sky Shop - (Live Demo) </strong></a> <br><br> <a href="https://github.com/Caner-Yesiltas/Sky-Shop"><img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github"></a></p> | <ul> <li>React Router</li> <li>Context API</li> <li>Tailwind CSS</li> <li>Axios</li> <li>Session Storage</li> <li>DummyJSON API</li> <li>Lazy Loading</li> <li>Protected Routes</li> </ul> | <img src="images/Sky-Shop.gif" width="485" height="270"> |
-| <p align="center"><a href="https://umbrella-corporation-projects-2dbd.vercel.app/"><strong>☔ Umbrella Corporation Projects - (Live Demo)</strong></a> <br><br> <a href="https://github.com/Caner-Yesiltas/Umbrella-Corporation-Projects"><img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github"></a></p> | <ul> <li>TypeScript</li> <li>Material-UI</li> <li>Axios</li> <li>MockAPI</li> <li>SweetAlert2</li> </ul> | <img src="images/Umbrella-Projects.gif" width="485" height="270"> |
-| <p align="center"><a href="https://health-sync-two-liart.vercel.app/"><strong>🏥 HealthSync - (Live Demo)</strong></a> <br><br> <a href="https://github.com/Caner-Yesiltas/HealthSync"><img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github"></a></p> | <ul> <li>React Bootstrap</li> <li>React Icons</li> <li>Complex State Management</li> <li>Custom Modal</li> <li>Local Storage</li> </ul> | <img src="images/HealthSync.gif" width="485" height="270"> |
-| <p align="center"><a href="https://quick-cart-gules.vercel.app/"><strong>🧺 Quick Cart - (Live Demo)</strong></a> <br><br> <a href="https://github.com/Caner-Yesiltas/Quick-Cart"><img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github"></a></p> | <ul> <li>Redux Toolkit</li> <li>React Router</li> <li>Material-UI</li> <li>Axios</li> <li>Local Storage</li> <li>FakeStore API</li> </ul> | <img src="images/Quick-Cart.gif" width="485" height="270"> |
-| <p align="center"><a href="https://timely-haupia-7e5c56.netlify.app/"><strong>🧑‍🍳 Boston Recipe App - (Live Demo)</strong></a> <br><br> <a href="https://github.com/Caner-Yesiltas/Boston-Recipe-App"><img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github"></a></p> | <ul> <li>React Router</li> <li>Styled Components</li> <li>Axios</li> <li>Edamam API</li> <li>Lazy Loading</li> <li>Session Storage</li> </ul> | <img src="images/Boston-Recipe-App.gif" width="485" height="270"> |
-| <p align="center"><a href="https://employee-management-system-three-jade.vercel.app/"><strong>📈 Employee Management System - (Live Demo)</strong></a> <br><br> <a href="https://github.com/Caner-Yesiltas/Employee-Management-System"><img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github"></a></p> | <ul> <li>React</li> <li>Tailwind CSS</li> <li>State Management</li> <li>Custom Modal</li> </ul> | <img src="images/EmployeeManagement.gif" width="485" height="270"> |
-| <p align="center"><a href="https://todo-list-type-script-redux-eta.vercel.app/"><strong>🛰️ TodoList with TypeScript & Redux - (Live Demo)</strong></a> <br><br> <a href="https://github.com/Caner-Yesiltas/TodoList-TypeScript-Redux"><img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github"></a></p> | <ul> <li>TypeScript</li> <li>Redux Toolkit</li> <li>React Icons</li> </ul> | <img src="images/TodoList-TypeScript-Redux.gif" width="485" height="270"> |
-| <p align="center"><a href="https://task-tracker-pro-dusky.vercel.app/"><strong>💾 Task Tracker Pro - (Live Demo)</strong></a> <br><br> <a href="https://github.com/Caner-Yesiltas/Task-Tracker-Pro"><img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github"></a></p> | <ul> <li>React</li> <li>TypeScript</li> <li>State Management</li> </ul> | <img src="images/Task-Tracker-Pro.gif" width="485" height="270"> |
-| <p align="center"><a href="https://contact-app-bice-tau.vercel.app/"><strong>📞 Contact App - (Live Demo)</strong></a> <br><br> <a href="https://github.com/Caner-Yesiltas/Contact-App"><img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github"></a></p> | <ul> <li>React</li> <li>Tailwind CSS</li> <li>Input Masking</li> <li>Local Storage</li> </ul> | <img src="images/Contact-App.gif" width="485" height="270"> |
-| <p align="center"><a href="https://currency-app-woad.vercel.app/"><strong>💱 Currency Converter - (Live Demo)</strong></a> <br><br> <a href="https://github.com/Caner-Yesiltas/Currency-App"><img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github"></a></p> | <ul> <li>React</li> <li>Axios</li> <li>FreeCurrencyAPI</li> </ul> | <img src="images/Currency.gif" width="485" height="270"> |
-| <p align="center"><a href="https://task-flow-manager.vercel.app/"><strong>📝 TaskFlow Manager - (Live Demo)</strong></a> <br><br> <a href="https://github.com/Caner-Yesiltas/TaskFlow-Manager"><img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github"></a></p> | <ul> <li>React Bootstrap</li> <li>LocalStorage</li> <li>UUID</li> </ul> | <img src="images/TaskFlow.gif" width="485" height="270"> |
-| <p align="center"><a href="https://legacy-xi-xi.vercel.app/"><strong>⚽ Legacy-XI - (Live Demo)</strong></a> <br><br> <a href="https://github.com/Caner-Yesiltas/Legacy-XI"><img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github"></a></p> | <ul>  <li>React Bootstrap</li> <li>CSS Modules</li> </ul> | <img src="images/Futboll-Legends.gif" width="485" height="270"> |
-| <p align="center"><a href="https://todo-list-psi-ecru.vercel.app/"><strong> ✅ Todo List - (Live Demo)</strong></a> <br><br> <a href="https://github.com/Caner-Yesiltas/Todo-List"><img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github"></a></p> | <ul> <li>React Icons</li> </ul> | <img src="images/Todo.gif" width="485" height="270"> |
-| <p align="center"><a href="https://react-interview-questions-assigment.vercel.app/"><strong> 🎯 React Interview Q&A - (Live Demo)</strong></a> <br><br> <a href="https://github.com/Caner-Yesiltas/React-Interview-Q-A"><img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github"></a></p> | <ul> <li>React Bootstrap</li> </ul> | <img src="images/React-Interview.gif" width="485" height="270"> |
-| <p align="center"><a href="https://bucket-list-todo-project.vercel.app/"><strong> 🪣 Bucket List Todo - (Live Demo)</strong></a> <br><br> <a href="https://github.com/Caner-Yesiltas/BucketList-Todo"><img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github"></a></p> | <ul> <li>Vanilla JS</li> <li>DOM Manipulation</li> <li>SweetAlert2</li> <li>CSS3 Animations</li> <li>Font Awesome</li> </ul> | <img src="images/BucketList-Todo.gif" width="485" height="270"> |
-| <p align="center"><a href="https://lord-of-the-rings-gallery.vercel.app/"><strong>💍 Lord of the Rings Gallery - (Live Demo)</strong></a> <br><br> <a href="https://github.com/Caner-Yesiltas/Lord-of-rings-gallery"><img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github"></a></p> | <ul> <li>Vanilla JS</li> <li>DOM Manipulation</li> <li>Flickr API</li> <li>CSS Animations</li> </ul> | <img src="images/lord-of-rings-gallery.gif" width="485" height="270"> |
-| <p align="center"><a href="https://hogwarts-stop-watch.vercel.app/"><strong>🧙‍♂️ Hogwarts Stopwatch - (Live Demo)</strong></a> <br><br> <a href="https://github.com/Caner-Yesiltas/Hogwarts-Stop-Watch-Assigment"><img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github"></a></p> | <ul> <li>Vanilla JS</li> <li>DOM Manipulation</li> <li>CSS Animations</li> <li>Audio</li> </ul> | <img src="images/hogwarts-stop-watch.gif" width="485" height="270"> |
-| <p align="center"><a href="https://boot-strap-crunchyroll-anime-assigment.vercel.app/"><strong>🎌 Crunchyroll Anime Clone - (Live Demo)</strong></a> <br><br> <a href="https://github.com/Caner-Yesiltas/Crunchyroll-Clone"><img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github"></a></p> | <ul> <li>Bootstrap 5</li> <li>Font Awesome</li> <li>CSS Animations</li> </ul> | <img src="images/Crunchyroll.gif" width="485" height="270"> |
-
+| <p align="center"><a href="https://netflix-verse-eight.vercel.app/"><strong>🎬 Netflix Verse - (Live Demo) </strong></a> <br><br> <a href="https://github.com/Caner-Yesiltas/Netflix-Verse"><img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github"></a></p> | <ul><li>**Architecture:** Built with Next.js for server-side rendering.</li><li>**Troubleshooting:** Managed complex user state and authentication flows using Firebase & Context API.</li><li>**API Integration:** Successfully integrated the third-party TMDB API, handling various data structures and error states.</li></ul> | <img src="images/Netflix-Verse.gif" width="485" height="270"> |
+| <p align="center"><a href="https://swift-store-rho.vercel.app/"><strong>🛍️ Swift Store - (Live Demo) </strong></a> <br><br> <a href="https://github.com/Caner-Yesiltas/Swift-Store"><img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github"></a></p> | <ul> <li>**Code Quality:** Used TypeScript to ensure type safety, making the codebase easier to debug and maintain.</li><li>**State Management:** Implemented Redux Toolkit for predictable and centralized application state in a large e-commerce app.</li><li>**API Communication:** Handled asynchronous data fetching with Axios.</li></ul> | <img src="images/Swift-Store.gif" width="485" height="270"> |
+| <p align="center"><a href="https://umbrella-corporation-projects-2dbd.vercel.app/"><strong>☔ Umbrella Corporation Projects - (Live Demo)</strong></a> <br><br> <a href="https://github.com/Caner-Yesiltas/Umbrella-Corporation-Projects"><img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github"></a></p> | <ul><li>**Core Functionality:** Implemented full CRUD (Create, Read, Update, Delete) operations, a fundamental skill for web support.</li><li>**Corporate Readiness:** Utilized Material-UI, a standard in many corporate environments, to build a consistent UI.</li><li>**Code Maintainability:** Leveraged TypeScript to build a robust and easily debuggable application.</li></ul>| <img src="images/Umbrella-Projects.gif" width="485" height="270"> |
+| <p align="center"><a href="https://employee-management-system-three-jade.vercel.app/"><strong>📈 Employee Management System - (Live Demo)</strong></a> <br><br> <a href="https://github.com/Caner-Yesiltas/Employee-Management-System"><img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github"></a></p> | <ul><li>**Business Logic:** Developed a dashboard-style application for structured data management, common in SaaS and internal tools.</li><li>**State & UI:** Managed local state and created custom modals for a practical user workflow.</li><li>**Problem-Solving:** Proved ability to build a complete, end-to-end business-oriented tool from scratch.</li></ul> | <img src="images/EmployeeManagement.gif" width="485" height="270"> |
 
 
 
@@ -159,10 +97,9 @@ I found my passion in coding because it combines problem-solving with creativity
 ## 🎯 What’s Next
 
 
-Frontend developer who believes coding is more than just building projects - it's about learning, teaching, and growing together! Excited to join a team where I can contribute while helping others level up. 
+I am actively seeking a **Technical Support Engineer** role where I can apply my diagnostic skills and customer-first mindset. My goal is to leverage my technical knowledge of modern web stacks to solve complex user issues, improve product stability, and serve as a crucial link between customers and the engineering team.
 
-
-Can’t wait to connect and help build the future of technology!
+If you're looking for a dedicated problem-solver who is passionate about the user experience, let's connect!
 
 <p align="center">
   <img src="https://media.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif" width="100%" height="4">
@@ -216,21 +153,4 @@ Can’t wait to connect and help build the future of technology!
   </table>
 </div>
 
-<p align="center">
-  <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
-</p>
-
-
-
-
-
-<p align="center">
-  <strong> ~  Dynamic Random Quotes !~ </strong>
-</p>
-
-<p align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes"/>
-  </a>
-</p>
 
