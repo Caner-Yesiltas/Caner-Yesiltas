@@ -40,7 +40,7 @@ For me, the real thrill is in the investigation. I excel at digging into complex
 
 ## About Me ⚡️
 
-- <strong>High-Volume Technical Support (Türk Telekom, 2.5 years): Served as the first point of contact at a major GSM operator, mastering the ability to rapidly triage issues, manage user expectations under pressure, and communicate technical concepts with clarity and precision.
+- <strong>High-Volume Technical Support (Turk Telecom, 2.5 years): Served as the first point of contact at a major GSM operator, mastering the ability to rapidly triage issues, manage user expectations under pressure, and communicate technical concepts with clarity and precision.
 
 - <strong>User Engagement Analysis (TikTok, 2 years): Analyzed user behavior data to understand what makes a digital product successful. This role gave me a data-backed foundation in identifying user pain points and anticipating their needs proactively.
 
