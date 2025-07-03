@@ -92,7 +92,108 @@ My approach is to use the right tool for the right problem. I leverage my knowle
 | <p align="center"><a href="https://employee-management-system-three-jade.vercel.app/"><strong>📈 Employee Management System - (Live Demo)</strong></a> <br><br> <a href="https://github.com/Caner-Yesiltas/Employee-Management-System"><img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github"></a></p> | <ul><li>**Business Logic:** Developed a dashboard-style application for structured data management, common in SaaS and internal tools.</li><li>**State & UI:** Managed local state and created custom modals for a practical user workflow.</li><li>**Problem-Solving:** Proved ability to build a complete, end-to-end business-oriented tool from scratch.</li></ul> | <img src="images/EmployeeManagement.gif" width="485" height="270"> |
 
 
+<details align="center">
+  <summary><strong>☄️ Click Here to See My Full Learning Journey (16+ Additional Projects)</strong></summary>
+  
+  <br>
+  
+  *I believe in continuous learning and hands-on practice. This archive showcases my entire development path, from foundational concepts to more complex applications.*
+  
+  ---
+  
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="35%">📌 Project Name & Links</th>
+      <th width="35%">⚙️ Core Technologies</th>
+      <th width="30%">🎬 Preview</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://sky-shop-swart.vercel.app/"><strong>⛈️ Sky Shop</strong></a><br><a href="https://github.com/Caner-Yesiltas/Sky-Shop"><sub>GitHub Repo</sub></a></td>
+      <td>React Router, Context API, Tailwind CSS, Axios, Protected Routes</td>
+      <td align="center"><img src="https://github.com/Caner-Yesiltas/Caner-Yesiltas/blob/main/images/Sky-Shop.gif?raw=true" width="150"></td>
+    </tr>
+    <tr>
+      <td><a href="https://health-sync-two-liart.vercel.app/"><strong>🏥 HealthSync</strong></a><br><a href="https://github.com/Caner-Yesiltas/HealthSync"><sub>GitHub Repo</sub></a></td>
+      <td>React Bootstrap, Complex State Management, Custom Modals</td>
+      <td align="center"><img src="https://github.com/Caner-Yesiltas/Caner-Yesiltas/blob/main/images/HealthSync.gif?raw=true" width="150"></td>
+    </tr>
+    <tr>
+      <td><a href="https://quick-cart-gules.vercel.app/"><strong>🧺 Quick Cart</strong></a><br><a href="https://github.com/Caner-Yesiltas/Quick-Cart"><sub>GitHub Repo</sub></a></td>
+      <td>Redux Toolkit, React Router, Material-UI, Axios</td>
+      <td align="center"><img src="https://github.com/Caner-Yesiltas/Caner-Yesiltas/blob/main/images/Quick-Cart.gif?raw=true" width="150"></td>
+    </tr>
+    <tr>
+      <td><a href="https://timely-haupia-7e5c56.netlify.app/"><strong>🧑‍🍳 Boston Recipe App</strong></a><br><a href="https://github.com/Caner-Yesiltas/Boston-Recipe-App"><sub>GitHub Repo</sub></a></td>
+      <td>React Router, Styled Components, Axios, API Integration</td>
+      <td align="center"><img src="https://github.com/Caner-Yesiltas/Caner-Yesiltas/blob/main/images/Boston-Recipe-App.gif?raw=true" width="150"></td>
+    </tr>
+    <tr>
+      <td><a href="https://todo-list-type-script-redux-eta.vercel.app/"><strong>🛰️ TodoList (TS & Redux)</strong></a><br><a href="https://github.com/Caner-Yesiltas/TodoList-TypeScript-Redux"><sub>GitHub Repo</sub></a></td>
+      <td>TypeScript, Redux Toolkit, React Icons</td>
+      <td align="center"><img src="https://github.com/Caner-Yesiltas/Caner-Yesiltas/blob/main/images/TodoList-TypeScript-Redux.gif?raw=true" width="150"></td>
+    </tr>
+    <tr>
+      <td><a href="https://task-tracker-pro-dusky.vercel.app/"><strong>💾 Task Tracker Pro</strong></a><br><a href="https://github.com/Caner-Yesiltas/Task-Tracker-Pro"><sub>GitHub Repo</sub></a></td>
+      <td>React, TypeScript, State Management</td>
+      <td align="center"><img src="https://github.com/Caner-Yesiltas/Caner-Yesiltas/blob/main/images/Task-Tracker-Pro.gif?raw=true" width="150"></td>
+    </tr>
+    <tr>
+      <td><a href="https://contact-app-bice-tau.vercel.app/"><strong>📞 Contact App</strong></a><br><a href="https://github.com/Caner-Yesiltas/Contact-App"><sub>GitHub Repo</sub></a></td>
+      <td>React, Tailwind CSS, Input Masking</td>
+      <td align="center"><img src="https://github.com/Caner-Yesiltas/Caner-Yesiltas/blob/main/images/Contact-App.gif?raw=true" width="150"></td>
+    </tr>
+    <tr>
+      <td><a href="https://currency-app-woad.vercel.app/"><strong>💱 Currency Converter</strong></a><br><a href="https://github.com/Caner-Yesiltas/Currency-App"><sub>GitHub Repo</sub></a></td>
+      <td>React, Axios, FreeCurrencyAPI</td>
+      <td align="center"><img src="https://github.com/Caner-Yesiltas/Caner-Yesiltas/blob/main/images/Currency.gif?raw=true" width="150"></td>
+    </tr>
+    <tr>
+      <td><a href="https://task-flow-manager.vercel.app/"><strong>📝 TaskFlow Manager</strong></a><br><a href="https://github.com/Caner-Yesiltas/TaskFlow-Manager"><sub>GitHub Repo</sub></a></td>
+      <td>React Bootstrap, LocalStorage, UUID</td>
+      <td align="center"><img src="https://github.com/Caner-Yesiltas/Caner-Yesiltas/blob/main/images/TaskFlow.gif?raw=true" width="150"></td>
+    </tr>
+    <tr>
+      <td><a href="https://legacy-xi-xi.vercel.app/"><strong>⚽ Legacy-XI</strong></a><br><a href="https://github.com/Caner-Yesiltas/Legacy-XI"><sub>GitHub Repo</sub></a></td>
+      <td>React Bootstrap, CSS Modules</td>
+      <td align="center"><img src="https://github.com/Caner-Yesiltas/Caner-Yesiltas/blob/main/images/Futboll-Legends.gif?raw=true" width="150"></td>
+    </tr>
+    <tr>
+      <td><a href="https://todo-list-psi-ecru.vercel.app/"><strong>✅ Todo List</strong></a><br><a href="https://github.com/Caner-Yesiltas/Todo-List"><sub>GitHub Repo</sub></a></td>
+      <td>React, React Icons, State Management</td>
+      <td align="center"><img src="https://github.com/Caner-Yesiltas/Caner-Yesiltas/blob/main/images/Todo.gif?raw=true" width="150"></td>
+    </tr>
+    <tr>
+      <td><a href="https://react-interview-questions-assigment.vercel.app/"><strong>🎯 React Interview Q&A</strong></a><br><a href="https://github.com/Caner-Yesiltas/React-Interview-Q-A"><sub>GitHub Repo</sub></a></td>
+      <td>React, React Bootstrap, Data Mapping</td>
+      <td align="center"><img src="https://github.com/Caner-Yesiltas/Caner-Yesiltas/blob/main/images/React-Interview.gif?raw=true" width="150"></td>
+    </tr>
+    <tr>
+      <td><a href="https://bucket-list-todo-project.vercel.app/"><strong>🪣 Bucket List (Vanilla JS)</strong></a><br><a href="https://github.com/Caner-Yesiltas/Bucket-ListTodo"><sub>GitHub Repo</sub></a></td>
+      <td>Vanilla JS, DOM Manipulation, SweetAlert2</td>
+      <td align="center"><img src="https://github.com/Caner-Yesiltas/Caner-Yesiltas/blob/main/images/Bucket-List-Todo.gif?raw=true" width="150"></td>
+    </tr>
+    <tr>
+      <td><a href="https://lord-of-the-rings-gallery.vercel.app/"><strong>💍 LoTR Gallery (Vanilla JS)</strong></a><br><a href="https://github.com/Caner-Yesiltas/Lord-of-rings-gallery"><sub>GitHub Repo</sub></a></td>
+      <td>Vanilla JS, DOM Manipulation, Flickr API</td>
+      <td align="center"><img src="https://github.com/Caner-Yesiltas/Caner-Yesiltas/blob/main/images/BucketList-Todo.gif?raw=true" width="150"></td>
+    </tr>
+    <tr>
+      <td><a href="https://hogwarts-stop-watch.vercel.app/"><strong>🧙‍♂️ Hogwarts Stopwatch</strong></a><br><a href="https://github.com/Caner-Yesiltas/Hogwarts-Stop-Watch-Assigment"><sub>GitHub Repo</sub></a></td>
+      <td>Vanilla JS, DOM Manipulation, Audio API</td>
+      <td align="center"><img src="https://github.com/Caner-Yesiltas/Caner-Yesiltas/blob/main/images/hogwarts-stop-watch.gif?raw=true" width="150"></td>
+    </tr>
+    <tr>
+      <td><a href="https://boot-strap-crunchyroll-anime-assigment.vercel.app/"><strong>🎌 Crunchyroll Clone</strong></a><br><a href="https://github.com/Caner-Yesiltas/Crunchyroll-Clone"><sub>GitHub Repo</sub></a></td>
+      <td>HTML, Bootstrap 5, CSS Animations</td>
+      <td align="center"><img src="https://github.com/Caner-Yesiltas/Caner-Yesiltas/blob/main/images/Crunchyroll.gif?raw=true" width="150"></td>
+    </tr>
+  </tbody>
+</table>
 
+</details>
 
 ## 🎯 What’s Next
 
