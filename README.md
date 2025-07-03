@@ -170,15 +170,14 @@ My approach is to use the right tool for the right problem. I leverage my knowle
       <td>React, React Bootstrap, Data Mapping</td>
       <td align="center"><img src="https://github.com/Caner-Yesiltas/Caner-Yesiltas/blob/main/images/React-Interview.gif?raw=true" width="150"></td>
     </tr>
-    <tr>
-      <td><a href="https://bucket-list-todo-project.vercel.app/"><strong>🪣 Bucket List (Vanilla JS)</strong></a><br><a href="https://github.com/Caner-Yesiltas/Bucket-ListTodo"><sub>GitHub Repo</sub></a></td>
-      <td>Vanilla JS, DOM Manipulation, SweetAlert2</td>
-      <td align="center"><img src="https://github.com/Caner-Yesiltas/Caner-Yesiltas/blob/main/images/Bucket-List-Todo.gif?raw=true" width="150"></td>
-    </tr>
-    <tr>
+   <tr>
+  <td><a href="https://bucket-list-todo-project.vercel.app/"><strong>🪣 Bucket List (Vanilla JS)</strong></a><br><a href="https://github.com/Caner-Yesiltas/BucketList_Todo"><sub>GitHub Repo</sub></a></td>
+  <td>Vanilla JS, DOM Manipulation, SweetAlert2</td>
+  <td align="center"><img src="https://github.com/Caner-Yesiltas/Caner-Yesiltas/blob/main/images/BucketList-Todo.gif?raw=true" width="150"></td>
+</tr>
       <td><a href="https://lord-of-the-rings-gallery.vercel.app/"><strong>💍 LoTR Gallery (Vanilla JS)</strong></a><br><a href="https://github.com/Caner-Yesiltas/Lord-of-rings-gallery"><sub>GitHub Repo</sub></a></td>
       <td>Vanilla JS, DOM Manipulation, Flickr API</td>
-      <td align="center"><img src="https://github.com/Caner-Yesiltas/Caner-Yesiltas/blob/main/images/BucketList-Todo.gif?raw=true" width="150"></td>
+      <td align="center"><img src="https://github.com/Caner-Yesiltas/Caner-Yesiltas/blob/main/images/lord-of-rings-gallery.gif?raw=true" width="150"></td>
     </tr>
     <tr>
       <td><a href="https://hogwarts-stop-watch.vercel.app/"><strong>🧙‍♂️ Hogwarts Stopwatch</strong></a><br><a href="https://github.com/Caner-Yesiltas/Hogwarts-Stop-Watch-Assigment"><sub>GitHub Repo</sub></a></td>
